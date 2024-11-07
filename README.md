@@ -18,7 +18,7 @@ The database also provides aggregate inflation for global, advanced-economy, and
 
 ## Citation
 
-If you use this data, please cite the original source:
+If you use this data, please cite the original source, the [research paper](https://www.sciencedirect.com/science/article/abs/pii/S0261560623000979) by Jongrim Ha, M. Ayhan Kose, and Franziska Ohnsorge:
 
 > Ha, Jongrim, M. Ayhan Kose, and Franziska Ohnsorge (2023). "One-Stop Source: A Global Database of Inflation." Journal of International Money and Finance 137 (October): 102896.
 
