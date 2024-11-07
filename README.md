@@ -2,6 +2,23 @@
 
 This repository contains processed versions of the World Bank's global inflation data. The data has been structured and cleaned for enhanced usability in AI, machine learning, and data science applications. No scripts or code are included in this repository; only the processed datasets are provided.
 
+## Usage
+
+To access and use the data files in this repository:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/WorldBank-Global-Inflation-Data.git
+   ```
+   
+2. **Navigate to the directory**:
+   ```bash
+   cd WorldBank-Global-Inflation-Data
+   ```
+
+3. **Load the data**: The data is stored in CSV format within the `data` folder. You can use tools like **Pandas** or **SQLite** to work with the datasets in your preferred environment.
+
+
 ## About the Data
 
 - **Source**: [The World Bank’s Prospects Group Global Inflation Database (April 2024 version)](https://www.worldbank.org/en/research/brief/inflation-database).
