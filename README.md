@@ -1,6 +1,6 @@
 # WorldBank-Global-Inflation-Data
 
-This repository contains processed versions of the World Bank's global inflation data. The data has been structured and cleaned for enhanced usability in AI, machine learning, and data science applications. No scripts or code are included in this repository; only the processed datasets are provided.
+This repository contains processed versions of the World Bank's ["_A Global Database of Inflation_"](https://www.worldbank.org/en/research/brief/inflation-database) global inflation data. The data has been structured and cleaned for enhanced usability in AI, machine learning, and data science applications. No scripts or code are included in this repository; only the processed datasets are provided.
 
 ## Usage
 
