@@ -1,0 +1,3048 @@
+Country Code,Country,Date,Core_CPI
+AUS,Australia,1970-01-01,5.0
+AUT,Austria,1970-01-01,3.7
+BEL,Belgium,1970-01-01,5.3
+CAN,Canada,1970-01-01,3.6
+CHE,Switzerland,1970-01-01,3.4
+CYP,Cyprus,1970-01-01,5.1
+DEU,Germany,1970-01-01,3.6
+DNK,Denmark,1970-01-01,-5.9
+ETH,Ethiopia,1970-01-01,1.2
+FIN,Finland,1970-01-01,2.5
+FRA,France,1970-01-01,-1.1
+GBR,United Kingdom,1970-01-01,-3.4
+GRC,Greece,1970-01-01,9.4
+GTM,Guatemala,1970-01-01,-3.4
+ITA,Italy,1970-01-01,17.2
+JPN,Japan,1970-01-01,6.9
+LUX,Luxembourg,1970-01-01,4.3
+NLD,Netherlands,1970-01-01,3.8
+NOR,Norway,1970-01-01,-26.1
+NZL,New Zealand,1970-01-01,6.7
+PAN,Panama,1970-01-01,4.6
+PRT,Portugal,1970-01-01,9.5
+SWE,Sweden,1970-01-01,6.7
+TUN,Tunisia,1970-01-01,0.8
+USA,United States,1970-01-01,6.2
+AUS,Australia,1971-01-01,-10.9
+AUT,Austria,1971-01-01,5.2
+BEL,Belgium,1971-01-01,1.0
+CAN,Canada,1971-01-01,2.9
+CHE,Switzerland,1971-01-01,6.4
+CYP,Cyprus,1971-01-01,4.5
+DEU,Germany,1971-01-01,5.5
+DNK,Denmark,1971-01-01,5.6
+ETH,Ethiopia,1971-01-01,5.1
+FIN,Finland,1971-01-01,6.3
+FRA,France,1971-01-01,-17.6
+GBR,United Kingdom,1971-01-01,9.1
+GRC,Greece,1971-01-01,2.7
+GTM,Guatemala,1971-01-01,10.9
+ISR,Israel,1971-01-01,11.7
+ITA,Italy,1971-01-01,5.8
+JPN,Japan,1971-01-01,7.0
+LUX,Luxembourg,1971-01-01,4.9
+NLD,Netherlands,1971-01-01,8.5
+NZL,New Zealand,1971-01-01,11.0
+PAN,Panama,1971-01-01,5.5
+PRT,Portugal,1971-01-01,15.0
+SWE,Sweden,1971-01-01,6.9
+TUN,Tunisia,1971-01-01,3.9
+USA,United States,1971-01-01,4.7
+AUS,Australia,1972-01-01,6.5
+AUT,Austria,1972-01-01,6.4
+BEL,Belgium,1972-01-01,1.6
+CAN,Canada,1972-01-01,4.8
+CHE,Switzerland,1972-01-01,7.2
+CYP,Cyprus,1972-01-01,3.1
+DEU,Germany,1972-01-01,5.5
+DNK,Denmark,1972-01-01,6.4
+ETH,Ethiopia,1972-01-01,2.9
+FIN,Finland,1972-01-01,6.2
+FRA,France,1972-01-01,6.0
+GBR,United Kingdom,1972-01-01,6.8
+GRC,Greece,1972-01-01,4.6
+GTM,Guatemala,1972-01-01,0.6
+ISR,Israel,1972-01-01,14.6
+ITA,Italy,1972-01-01,5.7
+JPN,Japan,1972-01-01,5.6
+KOR,"Korea, Rep.",1972-01-01,20.5
+LUX,Luxembourg,1972-01-01,5.2
+NLD,Netherlands,1972-01-01,8.3
+NZL,New Zealand,1972-01-01,7.6
+PAN,Panama,1972-01-01,6.7
+PRT,Portugal,1972-01-01,11.8
+SWE,Sweden,1972-01-01,5.8
+TUN,Tunisia,1972-01-01,1.3
+USA,United States,1972-01-01,3.1
+AUS,Australia,1973-01-01,8.3
+AUT,Austria,1973-01-01,7.4
+BEL,Belgium,1973-01-01,18.3
+CAN,Canada,1973-01-01,6.3
+CHE,Switzerland,1973-01-01,8.8
+CYP,Cyprus,1973-01-01,13.3
+DEU,Germany,1973-01-01,6.4
+DNK,Denmark,1973-01-01,16.4
+ETH,Ethiopia,1973-01-01,5.2
+FIN,Finland,1973-01-01,10.5
+FRA,France,1973-01-01,7.1
+GBR,United Kingdom,1973-01-01,8.6
+GRC,Greece,1973-01-01,15.4
+GTM,Guatemala,1973-01-01,6.0
+ISR,Israel,1973-01-01,20.2
+ITA,Italy,1973-01-01,10.5
+JPN,Japan,1973-01-01,11.5
+KOR,"Korea, Rep.",1973-01-01,27.3
+LUX,Luxembourg,1973-01-01,6.2
+NLD,Netherlands,1973-01-01,8.2
+NOR,Norway,1973-01-01,-13.2
+NZL,New Zealand,1973-01-01,7.5
+PAN,Panama,1973-01-01,11.7
+PRT,Portugal,1973-01-01,15.6
+SWE,Sweden,1973-01-01,6.4
+TUN,Tunisia,1973-01-01,6.2
+USA,United States,1973-01-01,3.5
+AUS,Australia,1974-01-01,15.6
+AUT,Austria,1974-01-01,9.8
+BEL,Belgium,1974-01-01,-3.6
+CAN,Canada,1974-01-01,10.0
+CHE,Switzerland,1974-01-01,8.8
+DEU,Germany,1974-01-01,6.8
+DNK,Denmark,1974-01-01,14.0
+ESP,Spain,1974-01-01,9.3
+ETH,Ethiopia,1974-01-01,9.8
+FIN,Finland,1974-01-01,14.9
+FRA,France,1974-01-01,12.2
+GBR,United Kingdom,1974-01-01,13.8
+GRC,Greece,1974-01-01,24.1
+GTM,Guatemala,1974-01-01,27.0
+ISR,Israel,1974-01-01,36.3
+ITA,Italy,1974-01-01,16.5
+JPN,Japan,1974-01-01,20.6
+KOR,"Korea, Rep.",1974-01-01,41.5
+LUX,Luxembourg,1974-01-01,9.6
+NLD,Netherlands,1974-01-01,9.7
+NZL,New Zealand,1974-01-01,11.1
+PAN,Panama,1974-01-01,28.8
+PRT,Portugal,1974-01-01,21.6
+SWE,Sweden,1974-01-01,9.0
+TUN,Tunisia,1974-01-01,33.5
+USA,United States,1974-01-01,8.2
+AUS,Australia,1975-01-01,16.3
+AUT,Austria,1975-01-01,9.4
+BEL,Belgium,1975-01-01,-6.5
+CAN,Canada,1975-01-01,10.2
+CHE,Switzerland,1975-01-01,7.3
+DEU,Germany,1975-01-01,5.7
+DNK,Denmark,1975-01-01,9.6
+ETH,Ethiopia,1975-01-01,5.3
+FIN,Finland,1975-01-01,17.5
+FRA,France,1975-01-01,-1.8
+GBR,United Kingdom,1975-01-01,22.1
+GRC,Greece,1975-01-01,14.3
+GTM,Guatemala,1975-01-01,14.0
+ISL,Iceland,1975-01-01,-42.7
+ISR,Israel,1975-01-01,36.2
+ITA,Italy,1975-01-01,16.9
+JPN,Japan,1975-01-01,11.3
+KOR,"Korea, Rep.",1975-01-01,16.0
+LUX,Luxembourg,1975-01-01,10.1
+NLD,Netherlands,1975-01-01,10.4
+NZL,New Zealand,1975-01-01,15.6
+PAN,Panama,1975-01-01,12.5
+PRT,Portugal,1975-01-01,-33.3
+SGP,Singapore,1975-01-01,-1.7
+SWE,Sweden,1975-01-01,9.8
+TUN,Tunisia,1975-01-01,10.4
+USA,United States,1975-01-01,9.2
+AUS,Australia,1976-01-01,13.8
+AUT,Austria,1976-01-01,10.2
+BEL,Belgium,1976-01-01,6.0
+CAN,Canada,1976-01-01,8.0
+CHE,Switzerland,1976-01-01,2.2
+DEU,Germany,1976-01-01,4.0
+DNK,Denmark,1976-01-01,34.7
+ESP,Spain,1976-01-01,14.9
+ETH,Ethiopia,1976-01-01,5.5
+FIN,Finland,1976-01-01,14.4
+FRA,France,1976-01-01,9.2
+GBR,United Kingdom,1976-01-01,15.5
+GRC,Greece,1976-01-01,12.7
+GTM,Guatemala,1976-01-01,9.8
+IRL,Ireland,1976-01-01,18.4
+ISL,Iceland,1976-01-01,84.4
+ISR,Israel,1976-01-01,32.3
+ITA,Italy,1976-01-01,35.3
+JPN,Japan,1976-01-01,9.8
+KOR,"Korea, Rep.",1976-01-01,15.6
+LUX,Luxembourg,1976-01-01,9.6
+NLD,Netherlands,1976-01-01,8.5
+NZL,New Zealand,1976-01-01,16.1
+PAN,Panama,1976-01-01,5.8
+PRT,Portugal,1976-01-01,20.2
+SGP,Singapore,1976-01-01,9.0
+SWE,Sweden,1976-01-01,9.5
+TUN,Tunisia,1976-01-01,-1.9
+USA,United States,1976-01-01,6.6
+AUS,Australia,1977-01-01,12.9
+AUT,Austria,1977-01-01,6.1
+BEL,Belgium,1977-01-01,8.0
+CAN,Canada,1977-01-01,7.5
+CHE,Switzerland,1977-01-01,1.4
+DEU,Germany,1977-01-01,3.7
+DNK,Denmark,1977-01-01,10.5
+ESP,Spain,1977-01-01,26.4
+ETH,Ethiopia,1977-01-01,7.9
+FIN,Finland,1977-01-01,10.5
+FRA,France,1977-01-01,8.5
+GBR,United Kingdom,1977-01-01,15.5
+GRC,Greece,1977-01-01,11.8
+GTM,Guatemala,1977-01-01,3.2
+IRL,Ireland,1977-01-01,12.6
+ISR,Israel,1977-01-01,32.4
+ITA,Italy,1977-01-01,-20.3
+JPN,Japan,1977-01-01,8.6
+KOR,"Korea, Rep.",1977-01-01,9.5
+LUX,Luxembourg,1977-01-01,7.1
+NLD,Netherlands,1977-01-01,6.5
+NZL,New Zealand,1977-01-01,13.2
+PAN,Panama,1977-01-01,9.3
+PRT,Portugal,1977-01-01,27.5
+SGP,Singapore,1977-01-01,5.0
+SWE,Sweden,1977-01-01,11.2
+TUN,Tunisia,1977-01-01,2.4
+USA,United States,1977-01-01,6.3
+AUS,Australia,1978-01-01,7.5
+AUT,Austria,1978-01-01,3.7
+BEL,Belgium,1978-01-01,6.1
+CAN,Canada,1978-01-01,7.6
+CHE,Switzerland,1978-01-01,0.9
+DEU,Germany,1978-01-01,3.0
+DNK,Denmark,1978-01-01,10.6
+ESP,Spain,1978-01-01,21.6
+ETH,Ethiopia,1978-01-01,11.1
+FIN,Finland,1978-01-01,8.9
+FRA,France,1978-01-01,9.4
+GBR,United Kingdom,1978-01-01,9.6
+GRC,Greece,1978-01-01,12.0
+GTM,Guatemala,1978-01-01,1.6
+IRL,Ireland,1978-01-01,7.7
+ISR,Israel,1978-01-01,52.2
+ITA,Italy,1978-01-01,12.5
+JPN,Japan,1978-01-01,5.3
+KOR,"Korea, Rep.",1978-01-01,11.9
+LUX,Luxembourg,1978-01-01,3.5
+NLD,Netherlands,1978-01-01,4.8
+NZL,New Zealand,1978-01-01,12.2
+PAN,Panama,1978-01-01,5.5
+PRT,Portugal,1978-01-01,22.4
+SGP,Singapore,1978-01-01,3.9
+SWE,Sweden,1978-01-01,9.7
+TUN,Tunisia,1978-01-01,2.2
+USA,United States,1978-01-01,7.3
+AUS,Australia,1979-01-01,7.2
+AUT,Austria,1979-01-01,3.8
+BEL,Belgium,1979-01-01,4.2
+CAN,Canada,1979-01-01,8.4
+CHE,Switzerland,1979-01-01,1.7
+DEU,Germany,1979-01-01,3.3
+DNK,Denmark,1979-01-01,8.9
+ESP,Spain,1979-01-01,19.1
+ETH,Ethiopia,1979-01-01,8.5
+FIN,Finland,1979-01-01,8.3
+FRA,France,1979-01-01,-15.1
+GBR,United Kingdom,1979-01-01,13.2
+GRC,Greece,1979-01-01,19.3
+GTM,Guatemala,1979-01-01,15.2
+IRL,Ireland,1979-01-01,12.7
+ISR,Israel,1979-01-01,78.1
+ITA,Italy,1979-01-01,15.3
+JPN,Japan,1979-01-01,3.9
+KOR,"Korea, Rep.",1979-01-01,19.5
+LUX,Luxembourg,1979-01-01,4.2
+NLD,Netherlands,1979-01-01,4.5
+NOR,Norway,1979-01-01,4.5
+NZL,New Zealand,1979-01-01,12.5
+PAN,Panama,1979-01-01,7.5
+PRT,Portugal,1979-01-01,18.8
+SGP,Singapore,1979-01-01,12.9
+SWE,Sweden,1979-01-01,6.7
+TUN,Tunisia,1979-01-01,7.4
+USA,United States,1979-01-01,9.7
+AUS,Australia,1980-01-01,9.1
+AUT,Austria,1980-01-01,5.5
+BEL,Belgium,1980-01-01,-9.2
+CAN,Canada,1980-01-01,9.5
+CHE,Switzerland,1980-01-01,3.2
+DEU,Germany,1980-01-01,5.3
+DNK,Denmark,1980-01-01,10.4
+ESP,Spain,1980-01-01,15.6
+ETH,Ethiopia,1980-01-01,12.3
+FIN,Finland,1980-01-01,10.3
+FRA,France,1980-01-01,13.1
+GBR,United Kingdom,1980-01-01,18.2
+GRC,Greece,1980-01-01,23.7
+GTM,Guatemala,1980-01-01,19.0
+IRL,Ireland,1980-01-01,19.5
+ISR,Israel,1980-01-01,115.0
+ITA,Italy,1980-01-01,40.7
+JPN,Japan,1980-01-01,5.9
+KOR,"Korea, Rep.",1980-01-01,28.3
+LUX,Luxembourg,1980-01-01,5.8
+MEX,Mexico,1980-01-01,27.0
+NLD,Netherlands,1980-01-01,6.3
+NOR,Norway,1980-01-01,10.4
+NZL,New Zealand,1980-01-01,16.1
+PAN,Panama,1980-01-01,13.1
+PRT,Portugal,1980-01-01,14.8
+SGP,Singapore,1980-01-01,16.8
+SWE,Sweden,1980-01-01,12.5
+TUN,Tunisia,1980-01-01,12.9
+USA,United States,1980-01-01,12.4
+AUS,Australia,1981-01-01,9.1
+AUT,Austria,1981-01-01,5.2
+BEL,Belgium,1981-01-01,23.0
+CAN,Canada,1981-01-01,11.1
+CHE,Switzerland,1981-01-01,5.4
+DEU,Germany,1981-01-01,5.8
+DNK,Denmark,1981-01-01,10.2
+ESP,Spain,1981-01-01,12.5
+ETH,Ethiopia,1981-01-01,9.5
+FIN,Finland,1981-01-01,10.2
+FRA,France,1981-01-01,12.5
+GBR,United Kingdom,1981-01-01,11.1
+GRC,Greece,1981-01-01,22.7
+GTM,Guatemala,1981-01-01,10.1
+IRL,Ireland,1981-01-01,21.3
+ISR,Israel,1981-01-01,125.1
+ITA,Italy,1981-01-01,18.2
+JPN,Japan,1981-01-01,4.7
+KOR,"Korea, Rep.",1981-01-01,20.6
+LUX,Luxembourg,1981-01-01,7.4
+MEX,Mexico,1981-01-01,29.5
+NLD,Netherlands,1981-01-01,5.9
+NOR,Norway,1981-01-01,12.3
+NZL,New Zealand,1981-01-01,15.3
+PAN,Panama,1981-01-01,13.7
+PRT,Portugal,1981-01-01,18.2
+SGP,Singapore,1981-01-01,1.6
+SWE,Sweden,1981-01-01,11.0
+TUN,Tunisia,1981-01-01,17.9
+USA,United States,1981-01-01,10.5
+AUS,Australia,1982-01-01,12.2
+AUT,Austria,1982-01-01,5.7
+BEL,Belgium,1982-01-01,7.1
+CAN,Canada,1982-01-01,10.7
+CHE,Switzerland,1982-01-01,5.8
+CYP,Cyprus,1982-01-01,-13.7
+DEU,Germany,1982-01-01,4.8
+DNK,Denmark,1982-01-01,9.8
+ESP,Spain,1982-01-01,14.7
+FIN,Finland,1982-01-01,9.0
+FRA,France,1982-01-01,11.3
+GBR,United Kingdom,1982-01-01,8.2
+GRC,Greece,1982-01-01,20.9
+GTM,Guatemala,1982-01-01,3.2
+IRL,Ireland,1982-01-01,18.6
+ISR,Israel,1982-01-01,121.6
+ITA,Italy,1982-01-01,17.0
+JPN,Japan,1982-01-01,3.0
+KOR,"Korea, Rep.",1982-01-01,8.7
+LUX,Luxembourg,1982-01-01,8.8
+MEX,Mexico,1982-01-01,59.1
+NLD,Netherlands,1982-01-01,5.4
+NOR,Norway,1982-01-01,10.6
+NZL,New Zealand,1982-01-01,17.2
+PAN,Panama,1982-01-01,5.7
+PRT,Portugal,1982-01-01,18.8
+SGP,Singapore,1982-01-01,-4.4
+SWE,Sweden,1982-01-01,7.4
+TUN,Tunisia,1982-01-01,8.3
+TWN,"Taiwan, China",1982-01-01,2.3
+USA,United States,1982-01-01,7.4
+AUS,Australia,1983-01-01,9.7
+AUT,Austria,1983-01-01,4.3
+BEL,Belgium,1983-01-01,8.4
+CAN,Canada,1983-01-01,6.2
+CHE,Switzerland,1983-01-01,3.7
+DEU,Germany,1983-01-01,3.8
+DNK,Denmark,1983-01-01,8.1
+ESP,Spain,1983-01-01,12.3
+FIN,Finland,1983-01-01,9.3
+FRA,France,1983-01-01,9.5
+GBR,United Kingdom,1983-01-01,4.4
+GRC,Greece,1983-01-01,20.9
+GTM,Guatemala,1983-01-01,5.5
+IRL,Ireland,1983-01-01,11.2
+ISR,Israel,1983-01-01,145.4
+ITA,Italy,1983-01-01,10.6
+JPN,Japan,1983-01-01,2.5
+KOR,"Korea, Rep.",1983-01-01,4.1
+LUX,Luxembourg,1983-01-01,7.7
+MEX,Mexico,1983-01-01,102.8
+NLD,Netherlands,1983-01-01,3.5
+NOR,Norway,1983-01-01,8.7
+NZL,New Zealand,1983-01-01,8.4
+PAN,Panama,1983-01-01,3.9
+PRT,Portugal,1983-01-01,21.0
+SGP,Singapore,1983-01-01,-2.6
+SWE,Sweden,1983-01-01,8.6
+TUN,Tunisia,1983-01-01,4.3
+TWN,"Taiwan, China",1983-01-01,1.9
+USA,United States,1983-01-01,3.9
+AUS,Australia,1984-01-01,3.6
+AUT,Austria,1984-01-01,5.5
+BEL,Belgium,1984-01-01,6.1
+CAN,Canada,1984-01-01,3.9
+CHE,Switzerland,1984-01-01,2.8
+DEU,Germany,1984-01-01,2.5
+DNK,Denmark,1984-01-01,6.5
+ESP,Spain,1984-01-01,10.7
+FIN,Finland,1984-01-01,7.7
+FRA,France,1984-01-01,23.6
+GBR,United Kingdom,1984-01-01,5.2
+GRC,Greece,1984-01-01,18.5
+GTM,Guatemala,1984-01-01,4.7
+IRL,Ireland,1984-01-01,-23.8
+ISR,Israel,1984-01-01,368.6
+ITA,Italy,1984-01-01,11.3
+JPN,Japan,1984-01-01,2.8
+KOR,"Korea, Rep.",1984-01-01,2.1
+LUX,Luxembourg,1984-01-01,6.3
+MEX,Mexico,1984-01-01,66.0
+NLD,Netherlands,1984-01-01,3.2
+NOR,Norway,1984-01-01,6.0
+NZL,New Zealand,1984-01-01,6.2
+PAN,Panama,1984-01-01,2.2
+PRT,Portugal,1984-01-01,25.5
+SGP,Singapore,1984-01-01,-0.7
+SWE,Sweden,1984-01-01,7.7
+TUN,Tunisia,1984-01-01,7.0
+TWN,"Taiwan, China",1984-01-01,1.7
+USA,United States,1984-01-01,4.9
+AUS,Australia,1985-01-01,6.8
+AUT,Austria,1985-01-01,3.7
+BEL,Belgium,1985-01-01,11.8
+CAN,Canada,1985-01-01,4.0
+CHE,Switzerland,1985-01-01,3.5
+DEU,Germany,1985-01-01,2.1
+DNK,Denmark,1985-01-01,-2.0
+ESP,Spain,1985-01-01,9.2
+FIN,Finland,1985-01-01,4.9
+FRA,France,1985-01-01,5.7
+GBR,United Kingdom,1985-01-01,6.9
+GRC,Greece,1985-01-01,19.3
+GTM,Guatemala,1985-01-01,20.5
+IRL,Ireland,1985-01-01,5.8
+ISL,Iceland,1985-01-01,-1.2
+ISR,Israel,1985-01-01,299.8
+ITA,Italy,1985-01-01,9.6
+JPN,Japan,1985-01-01,2.6
+KOR,"Korea, Rep.",1985-01-01,2.2
+LUX,Luxembourg,1985-01-01,4.2
+MEX,Mexico,1985-01-01,58.0
+NLD,Netherlands,1985-01-01,2.6
+NOR,Norway,1985-01-01,5.8
+NZL,New Zealand,1985-01-01,15.4
+PRT,Portugal,1985-01-01,20.9
+SGP,Singapore,1985-01-01,-2.7
+SWE,Sweden,1985-01-01,6.8
+TUN,Tunisia,1985-01-01,7.2
+TWN,"Taiwan, China",1985-01-01,1.4
+USA,United States,1985-01-01,4.4
+AUS,Australia,1986-01-01,9.7
+AUT,Austria,1986-01-01,3.7
+BEL,Belgium,1986-01-01,5.7
+CAN,Canada,1986-01-01,5.3
+CHE,Switzerland,1986-01-01,2.7
+DEU,Germany,1986-01-01,0.8
+DNK,Denmark,1986-01-01,-1.6
+ESP,Spain,1986-01-01,10.3
+FIN,Finland,1986-01-01,3.5
+FRA,France,1986-01-01,4.2
+GBR,United Kingdom,1986-01-01,4.5
+GRC,Greece,1986-01-01,1.6
+GTM,Guatemala,1986-01-01,11.8
+IRL,Ireland,1986-01-01,4.6
+ISR,Israel,1986-01-01,51.6
+ITA,Italy,1986-01-01,7.0
+JPN,Japan,1986-01-01,1.7
+KOR,"Korea, Rep.",1986-01-01,3.7
+LUX,Luxembourg,1986-01-01,2.5
+MEX,Mexico,1986-01-01,86.5
+NLD,Netherlands,1986-01-01,1.2
+NOR,Norway,1986-01-01,7.7
+NZL,New Zealand,1986-01-01,15.0
+POL,Poland,1986-01-01,20.0
+PRT,Portugal,1986-01-01,2.6
+SGP,Singapore,1986-01-01,-11.7
+SWE,Sweden,1986-01-01,4.8
+THA,Thailand,1986-01-01,3.7
+TUN,Tunisia,1986-01-01,4.0
+TWN,"Taiwan, China",1986-01-01,0.6
+USA,United States,1986-01-01,4.0
+AUS,Australia,1987-01-01,9.4
+AUT,Austria,1987-01-01,2.1
+BEL,Belgium,1987-01-01,3.7
+CAN,Canada,1987-01-01,4.5
+CHE,Switzerland,1987-01-01,2.1
+DEU,Germany,1987-01-01,1.2
+DJI,Djibouti,1987-01-01,-5.9
+DNK,Denmark,1987-01-01,-14.0
+ESP,Spain,1987-01-01,6.6
+FIN,Finland,1987-01-01,4.6
+FRA,France,1987-01-01,4.0
+GBR,United Kingdom,1987-01-01,4.8
+GRC,Greece,1987-01-01,17.6
+IRL,Ireland,1987-01-01,3.6
+ISR,Israel,1987-01-01,22.6
+ITA,Italy,1987-01-01,5.4
+JPN,Japan,1987-01-01,1.3
+KOR,"Korea, Rep.",1987-01-01,3.0
+LUX,Luxembourg,1987-01-01,1.0
+MEX,Mexico,1987-01-01,131.8
+NLD,Netherlands,1987-01-01,0.7
+NOR,Norway,1987-01-01,9.3
+NZL,New Zealand,1987-01-01,16.7
+POL,Poland,1987-01-01,33.3
+PRT,Portugal,1987-01-01,-3.5
+SGP,Singapore,1987-01-01,8.3
+SWE,Sweden,1987-01-01,4.7
+TCD,Chad,1987-01-01,18.7
+THA,Thailand,1987-01-01,3.2
+TWN,"Taiwan, China",1987-01-01,0.6
+USA,United States,1987-01-01,4.1
+AUS,Australia,1988-01-01,7.5
+AUT,Austria,1988-01-01,2.7
+BEL,Belgium,1988-01-01,2.3
+CAN,Canada,1988-01-01,4.7
+CHE,Switzerland,1988-01-01,2.2
+DEU,Germany,1988-01-01,1.8
+DJI,Djibouti,1988-01-01,4.5
+DNK,Denmark,1988-01-01,5.2
+ESP,Spain,1988-01-01,6.1
+FIN,Finland,1988-01-01,6.5
+FRA,France,1988-01-01,3.1
+GBR,United Kingdom,1988-01-01,5.6
+GRC,Greece,1988-01-01,14.3
+IRL,Ireland,1988-01-01,2.2
+ISR,Israel,1988-01-01,16.2
+ITA,Italy,1988-01-01,5.5
+JPN,Japan,1988-01-01,1.0
+KOR,"Korea, Rep.",1988-01-01,6.1
+LUX,Luxembourg,1988-01-01,1.8
+MEX,Mexico,1988-01-01,111.7
+MLT,Malta,1988-01-01,2.1
+NLD,Netherlands,1988-01-01,1.0
+NOR,Norway,1988-01-01,6.6
+NZL,New Zealand,1988-01-01,6.8
+POL,Poland,1988-01-01,68.8
+PRT,Portugal,1988-01-01,12.4
+SGP,Singapore,1988-01-01,0.4
+SWE,Sweden,1988-01-01,6.1
+TCD,Chad,1988-01-01,14.7
+THA,Thailand,1988-01-01,3.6
+TWN,"Taiwan, China",1988-01-01,2.3
+USA,United States,1988-01-01,4.4
+VEN,"Venezuela, RB",1988-01-01,37.5
+AUS,Australia,1989-01-01,7.5
+AUT,Austria,1989-01-01,2.7
+BEL,Belgium,1989-01-01,2.6
+CAN,Canada,1989-01-01,5.4
+CHE,Switzerland,1989-01-01,3.2
+DEU,Germany,1989-01-01,2.7
+DJI,Djibouti,1989-01-01,3.6
+DNK,Denmark,1989-01-01,4.7
+ESP,Spain,1989-01-01,6.8
+FIN,Finland,1989-01-01,7.5
+FRA,France,1989-01-01,3.2
+GBR,United Kingdom,1989-01-01,8.3
+GRC,Greece,1989-01-01,12.8
+IRL,Ireland,1989-01-01,3.9
+ISR,Israel,1989-01-01,18.5
+ITA,Italy,1989-01-01,6.4
+JPN,Japan,1989-01-01,2.5
+KOR,"Korea, Rep.",1989-01-01,6.0
+LUX,Luxembourg,1989-01-01,3.2
+MEX,Mexico,1989-01-01,20.0
+NLD,Netherlands,1989-01-01,1.2
+NOR,Norway,1989-01-01,4.8
+NZL,New Zealand,1989-01-01,5.3
+POL,Poland,1989-01-01,155.6
+PRT,Portugal,1989-01-01,14.6
+SGP,Singapore,1989-01-01,-0.1
+SLV,El Salvador,1989-01-01,11.6
+SWE,Sweden,1989-01-01,6.3
+TCD,Chad,1989-01-01,24.2
+THA,Thailand,1989-01-01,4.1
+TWN,"Taiwan, China",1989-01-01,4.0
+USA,United States,1989-01-01,4.5
+VEN,"Venezuela, RB",1989-01-01,78.8
+AUS,Australia,1990-01-01,7.5
+AUT,Austria,1990-01-01,2.9
+BEL,Belgium,1990-01-01,2.9
+CAN,Canada,1990-01-01,4.5
+CHE,Switzerland,1990-01-01,5.3
+CYP,Cyprus,1990-01-01,-5.5
+DEU,Germany,1990-01-01,2.5
+DJI,Djibouti,1990-01-01,5.7
+DNK,Denmark,1990-01-01,3.4
+ESP,Spain,1990-01-01,6.7
+FIN,Finland,1990-01-01,6.5
+FRA,France,1990-01-01,3.1
+GBR,United Kingdom,1990-01-01,9.7
+GRC,Greece,1990-01-01,18.5
+IRL,Ireland,1990-01-01,3.8
+ISR,Israel,1990-01-01,18.1
+ITA,Italy,1990-01-01,6.2
+JPN,Japan,1990-01-01,2.6
+KOR,"Korea, Rep.",1990-01-01,8.4
+LUX,Luxembourg,1990-01-01,3.1
+MEX,Mexico,1990-01-01,26.3
+NLD,Netherlands,1990-01-01,2.1
+NOR,Norway,1990-01-01,3.9
+NZL,New Zealand,1990-01-01,5.9
+POL,Poland,1990-01-01,665.9
+PRT,Portugal,1990-01-01,13.3
+SGP,Singapore,1990-01-01,-1.0
+SLV,El Salvador,1990-01-01,23.0
+SWE,Sweden,1990-01-01,8.8
+TCD,Chad,1990-01-01,8.6
+THA,Thailand,1990-01-01,4.8
+TWN,"Taiwan, China",1990-01-01,4.6
+USA,United States,1990-01-01,5.0
+VEN,"Venezuela, RB",1990-01-01,22.0
+AUS,Australia,1991-01-01,3.5
+AUT,Austria,1991-01-01,3.4
+BEL,Belgium,1991-01-01,4.2
+CAN,Canada,1991-01-01,6.2
+CHE,Switzerland,1991-01-01,2.4
+CYP,Cyprus,1991-01-01,9.6
+DEU,Germany,1991-01-01,3.9
+DJI,Djibouti,1991-01-01,9.2
+DNK,Denmark,1991-01-01,3.0
+ESP,Spain,1991-01-01,7.0
+FIN,Finland,1991-01-01,4.8
+FRA,France,1991-01-01,3.4
+GBR,United Kingdom,1991-01-01,5.8
+GRC,Greece,1991-01-01,7.7
+HUN,Hungary,1991-01-01,35.8
+IRL,Ireland,1991-01-01,3.9
+ISR,Israel,1991-01-01,20.1
+ITA,Italy,1991-01-01,5.8
+JPN,Japan,1991-01-01,2.7
+KOR,"Korea, Rep.",1991-01-01,8.3
+LUX,Luxembourg,1991-01-01,3.4
+MEX,Mexico,1991-01-01,23.0
+NLD,Netherlands,1991-01-01,2.8
+NOR,Norway,1991-01-01,3.5
+NZL,New Zealand,1991-01-01,3.0
+POL,Poland,1991-01-01,20.6
+PRT,Portugal,1991-01-01,14.7
+SGP,Singapore,1991-01-01,3.6
+SLV,El Salvador,1991-01-01,7.0
+SWE,Sweden,1991-01-01,10.7
+TCD,Chad,1991-01-01,11.3
+THA,Thailand,1991-01-01,4.8
+TWN,"Taiwan, China",1991-01-01,4.9
+USA,United States,1991-01-01,4.9
+VEN,"Venezuela, RB",1991-01-01,22.2
+AUS,Australia,1992-01-01,1.0
+AUT,Austria,1992-01-01,4.3
+BEL,Belgium,1992-01-01,3.6
+BRA,Brazil,1992-01-01,962.3
+CAN,Canada,1992-01-01,2.1
+CHE,Switzerland,1992-01-01,1.1
+COL,Colombia,1992-01-01,7.4
+DEU,Germany,1992-01-01,5.6
+DJI,Djibouti,1992-01-01,4.1
+DNK,Denmark,1992-01-01,2.5
+ESP,Spain,1992-01-01,6.9
+FIN,Finland,1992-01-01,3.6
+FRA,France,1992-01-01,3.2
+GBR,United Kingdom,1992-01-01,4.1
+GRC,Greece,1992-01-01,16.8
+HUN,Hungary,1992-01-01,24.9
+IRL,Ireland,1992-01-01,3.8
+ISR,Israel,1992-01-01,12.1
+ITA,Italy,1992-01-01,5.7
+JPN,Japan,1992-01-01,2.4
+KOR,"Korea, Rep.",1992-01-01,6.2
+LUX,Luxembourg,1992-01-01,4.3
+MEX,Mexico,1992-01-01,14.9
+NLD,Netherlands,1992-01-01,3.7
+NOR,Norway,1992-01-01,2.6
+NZL,New Zealand,1992-01-01,1.1
+PER,Peru,1992-01-01,71.4
+POL,Poland,1992-01-01,15.5
+PRT,Portugal,1992-01-01,12.4
+SGP,Singapore,1992-01-01,1.6
+SLV,El Salvador,1992-01-01,4.1
+SWE,Sweden,1992-01-01,4.3
+TCD,Chad,1992-01-01,2.0
+THA,Thailand,1992-01-01,4.4
+TTO,Trinidad and Tobago,1992-01-01,4.2
+TWN,"Taiwan, China",1992-01-01,3.3
+USA,United States,1992-01-01,3.7
+VEN,"Venezuela, RB",1992-01-01,14.8
+AUS,Australia,1993-01-01,1.7
+AUT,Austria,1993-01-01,4.3
+BEL,Belgium,1993-01-01,3.5
+BRA,Brazil,1993-01-01,1916.4
+CAN,Canada,1993-01-01,1.9
+CHE,Switzerland,1993-01-01,3.8
+COL,Colombia,1993-01-01,11.9
+DEU,Germany,1993-01-01,5.4
+DJI,Djibouti,1993-01-01,-19.2
+DNK,Denmark,1993-01-01,1.8
+ESP,Spain,1993-01-01,5.9
+FIN,Finland,1993-01-01,2.2
+FRA,France,1993-01-01,2.6
+GBR,United Kingdom,1993-01-01,1.4
+GRC,Greece,1993-01-01,16.0
+HUN,Hungary,1993-01-01,21.0
+IRL,Ireland,1993-01-01,41.2
+ISL,Iceland,1993-01-01,3.7
+ISR,Israel,1993-01-01,12.1
+ITA,Italy,1993-01-01,5.3
+JPN,Japan,1993-01-01,1.4
+KOR,"Korea, Rep.",1993-01-01,5.2
+LUX,Luxembourg,1993-01-01,4.2
+MEX,Mexico,1993-01-01,10.6
+MLT,Malta,1993-01-01,24.8
+NLD,Netherlands,1993-01-01,3.6
+NOR,Norway,1993-01-01,2.9
+NZL,New Zealand,1993-01-01,1.3
+PER,Peru,1993-01-01,47.6
+POL,Poland,1993-01-01,16.1
+PRT,Portugal,1993-01-01,10.6
+SGP,Singapore,1993-01-01,1.8
+SLV,El Salvador,1993-01-01,1.3
+SWE,Sweden,1993-01-01,4.5
+TCD,Chad,1993-01-01,8.3
+THA,Thailand,1993-01-01,4.5
+TTO,Trinidad and Tobago,1993-01-01,2.5
+TWN,"Taiwan, China",1993-01-01,3.1
+USA,United States,1993-01-01,3.3
+VEN,"Venezuela, RB",1993-01-01,35.6
+AUS,Australia,1994-01-01,2.0
+AUT,Austria,1994-01-01,3.3
+BEL,Belgium,1994-01-01,2.7
+BRA,Brazil,1994-01-01,2068.6
+CAN,Canada,1994-01-01,0.1
+CHE,Switzerland,1994-01-01,1.0
+CHL,Chile,1994-01-01,6.4
+COL,Colombia,1994-01-01,8.7
+CYP,Cyprus,1994-01-01,11.2
+DEU,Germany,1994-01-01,2.8
+DJI,Djibouti,1994-01-01,-0.8
+DNK,Denmark,1994-01-01,2.0
+ESP,Spain,1994-01-01,4.4
+FIN,Finland,1994-01-01,1.5
+FRA,France,1994-01-01,1.9
+GBR,United Kingdom,1994-01-01,2.5
+GRC,Greece,1994-01-01,-12.5
+HUN,Hungary,1994-01-01,18.3
+IRL,Ireland,1994-01-01,2.2
+ISL,Iceland,1994-01-01,2.5
+ISR,Israel,1994-01-01,13.2
+ITA,Italy,1994-01-01,4.2
+JPN,Japan,1994-01-01,0.9
+KOR,"Korea, Rep.",1994-01-01,5.1
+LUX,Luxembourg,1994-01-01,2.6
+MEX,Mexico,1994-01-01,7.3
+MLT,Malta,1994-01-01,-23.8
+NLD,Netherlands,1994-01-01,2.9
+NOR,Norway,1994-01-01,1.5
+NZL,New Zealand,1994-01-01,2.3
+PER,Peru,1994-01-01,25.2
+POL,Poland,1994-01-01,26.8
+PRT,Portugal,1994-01-01,13.1
+PRY,Paraguay,1994-01-01,20.2
+SGP,Singapore,1994-01-01,2.5
+SLV,El Salvador,1994-01-01,4.0
+SWE,Sweden,1994-01-01,2.4
+THA,Thailand,1994-01-01,4.1
+TTO,Trinidad and Tobago,1994-01-01,4.5
+TUR,Turkey,1994-01-01,102.4
+TWN,"Taiwan, China",1994-01-01,3.5
+USA,United States,1994-01-01,2.9
+VEN,"Venezuela, RB",1994-01-01,81.8
+AUS,Australia,1995-01-01,4.6
+AUT,Austria,1995-01-01,2.3
+BEL,Belgium,1995-01-01,1.8
+BRA,Brazil,1995-01-01,71.3
+CAN,Canada,1995-01-01,2.1
+CHE,Switzerland,1995-01-01,2.0
+CHL,Chile,1995-01-01,2.5
+COL,Colombia,1995-01-01,15.5
+CYP,Cyprus,1995-01-01,-22.2
+DEU,Germany,1995-01-01,2.0
+DJI,Djibouti,1995-01-01,-0.6
+DNK,Denmark,1995-01-01,1.9
+ESP,Spain,1995-01-01,4.5
+FIN,Finland,1995-01-01,2.9
+FRA,France,1995-01-01,1.9
+GBR,United Kingdom,1995-01-01,3.3
+GRC,Greece,1995-01-01,30.3
+HUN,Hungary,1995-01-01,26.6
+IRL,Ireland,1995-01-01,2.6
+ISL,Iceland,1995-01-01,1.5
+ISR,Israel,1995-01-01,10.1
+ITA,Italy,1995-01-01,5.0
+JPN,Japan,1995-01-01,0.4
+KOR,"Korea, Rep.",1995-01-01,4.6
+LUX,Luxembourg,1995-01-01,2.0
+MEX,Mexico,1995-01-01,34.6
+NLD,Netherlands,1995-01-01,2.3
+NOR,Norway,1995-01-01,2.4
+NZL,New Zealand,1995-01-01,4.3
+PER,Peru,1995-01-01,13.5
+POL,Poland,1995-01-01,20.4
+PRT,Portugal,1995-01-01,5.3
+PRY,Paraguay,1995-01-01,14.1
+SGP,Singapore,1995-01-01,2.2
+SLV,El Salvador,1995-01-01,6.9
+SWE,Sweden,1995-01-01,2.7
+THA,Thailand,1995-01-01,4.2
+TTO,Trinidad and Tobago,1995-01-01,1.8
+TUR,Turkey,1995-01-01,86.2
+TWN,"Taiwan, China",1995-01-01,3.5
+USA,United States,1995-01-01,3.0
+VEN,"Venezuela, RB",1995-01-01,51.0
+AUS,Australia,1996-01-01,3.4
+AUT,Austria,1996-01-01,1.5
+BEL,Belgium,1996-01-01,1.9
+BRA,Brazil,1996-01-01,18.0
+CAN,Canada,1996-01-01,1.5
+CHE,Switzerland,1996-01-01,0.9
+CHL,Chile,1996-01-01,10.2
+COL,Colombia,1996-01-01,22.1
+CRI,Costa Rica,1996-01-01,17.3
+CZE,Czech Republic,1996-01-01,8.0
+DEU,Germany,1996-01-01,1.6
+DJI,Djibouti,1996-01-01,10.5
+DNK,Denmark,1996-01-01,1.8
+ESP,Spain,1996-01-01,3.5
+FIN,Finland,1996-01-01,0.3
+FRA,France,1996-01-01,1.9
+GBR,United Kingdom,1996-01-01,2.1
+GRC,Greece,1996-01-01,8.6
+HUN,Hungary,1996-01-01,22.9
+IRL,Ireland,1996-01-01,-3.8
+ISL,Iceland,1996-01-01,1.9
+ISR,Israel,1996-01-01,10.9
+ITA,Italy,1996-01-01,4.1
+JPN,Japan,1996-01-01,0.4
+KOR,"Korea, Rep.",1996-01-01,5.1
+LTU,Lithuania,1996-01-01,20.3
+LUX,Luxembourg,1996-01-01,0.9
+LVA,Latvia,1996-01-01,21.1
+MEX,Mexico,1996-01-01,33.2
+NGA,Nigeria,1996-01-01,24.0
+NLD,Netherlands,1996-01-01,3.8
+NOR,Norway,1996-01-01,1.1
+NZL,New Zealand,1996-01-01,2.4
+PER,Peru,1996-01-01,10.0
+POL,Poland,1996-01-01,21.5
+PRT,Portugal,1996-01-01,3.7
+PRY,Paraguay,1996-01-01,9.5
+SGP,Singapore,1996-01-01,1.8
+SLV,El Salvador,1996-01-01,4.0
+SVK,Slovakia,1996-01-01,6.6
+SWE,Sweden,1996-01-01,1.4
+THA,Thailand,1996-01-01,3.7
+TTO,Trinidad and Tobago,1996-01-01,1.0
+TUR,Turkey,1996-01-01,80.8
+TWN,"Taiwan, China",1996-01-01,2.9
+USA,United States,1996-01-01,2.7
+VEN,"Venezuela, RB",1996-01-01,112.8
+AUS,Australia,1997-01-01,-0.4
+AUT,Austria,1997-01-01,1.1
+BEL,Belgium,1997-01-01,-5.3
+BRA,Brazil,1997-01-01,7.2
+CAN,Canada,1997-01-01,1.6
+CHE,Switzerland,1997-01-01,0.3
+COL,Colombia,1997-01-01,19.5
+CRI,Costa Rica,1997-01-01,13.4
+CYP,Cyprus,1997-01-01,2.5
+CZE,Czech Republic,1997-01-01,7.6
+DEU,Germany,1997-01-01,2.0
+DJI,Djibouti,1997-01-01,-7.6
+DNK,Denmark,1997-01-01,1.9
+ESP,Spain,1997-01-01,2.6
+FIN,Finland,1997-01-01,1.1
+FRA,France,1997-01-01,1.1
+GBR,United Kingdom,1997-01-01,1.9
+GRC,Greece,1997-01-01,7.3
+HUN,Hungary,1997-01-01,16.5
+IRL,Ireland,1997-01-01,1.4
+ISL,Iceland,1997-01-01,1.1
+ISR,Israel,1997-01-01,8.8
+ITA,Italy,1997-01-01,2.6
+JPN,Japan,1997-01-01,1.7
+KOR,"Korea, Rep.",1997-01-01,3.4
+LTU,Lithuania,1997-01-01,10.8
+LUX,Luxembourg,1997-01-01,1.3
+LVA,Latvia,1997-01-01,16.7
+MEX,Mexico,1997-01-01,19.9
+MLT,Malta,1997-01-01,4.0
+NGA,Nigeria,1997-01-01,7.5
+NLD,Netherlands,1997-01-01,1.7
+NOR,Norway,1997-01-01,2.2
+NZL,New Zealand,1997-01-01,0.9
+PER,Peru,1997-01-01,8.8
+POL,Poland,1997-01-01,16.2
+PRT,Portugal,1997-01-01,5.3
+PRY,Paraguay,1997-01-01,6.3
+SGP,Singapore,1997-01-01,1.5
+SLV,El Salvador,1997-01-01,-3.5
+SVK,Slovakia,1997-01-01,6.7
+SWE,Sweden,1997-01-01,0.2
+THA,Thailand,1997-01-01,4.2
+TTO,Trinidad and Tobago,1997-01-01,1.3
+TUR,Turkey,1997-01-01,83.5
+TWN,"Taiwan, China",1997-01-01,1.4
+USA,United States,1997-01-01,2.4
+VEN,"Venezuela, RB",1997-01-01,22.3
+AUS,Australia,1998-01-01,0.9
+AUT,Austria,1998-01-01,1.2
+BEL,Belgium,1998-01-01,1.8
+BRA,Brazil,1998-01-01,2.7
+CAN,Canada,1998-01-01,1.4
+CHE,Switzerland,1998-01-01,0.2
+COL,Colombia,1998-01-01,17.1
+CRI,Costa Rica,1998-01-01,11.4
+CYP,Cyprus,1998-01-01,3.1
+CZE,Czech Republic,1998-01-01,7.9
+DEU,Germany,1998-01-01,1.2
+DJI,Djibouti,1998-01-01,1.7
+DNK,Denmark,1998-01-01,1.6
+ESP,Spain,1998-01-01,2.6
+EST,Estonia,1998-01-01,10.1
+FIN,Finland,1998-01-01,1.6
+FRA,France,1998-01-01,2.1
+GBR,United Kingdom,1998-01-01,1.4
+GRC,Greece,1998-01-01,6.0
+HUN,Hungary,1998-01-01,13.4
+IRL,Ireland,1998-01-01,2.2
+ISL,Iceland,1998-01-01,1.9
+ISR,Israel,1998-01-01,5.4
+ITA,Italy,1998-01-01,-12.4
+JPN,Japan,1998-01-01,0.7
+KOR,"Korea, Rep.",1998-01-01,5.9
+LTU,Lithuania,1998-01-01,8.5
+LUX,Luxembourg,1998-01-01,1.1
+LVA,Latvia,1998-01-01,6.8
+MEX,Mexico,1998-01-01,16.1
+MLT,Malta,1998-01-01,4.0
+NGA,Nigeria,1998-01-01,4.3
+NLD,Netherlands,1998-01-01,2.1
+NOR,Norway,1998-01-01,2.3
+NZL,New Zealand,1998-01-01,1.0
+PER,Peru,1998-01-01,6.7
+POL,Poland,1998-01-01,13.8
+PRT,Portugal,1998-01-01,2.3
+PRY,Paraguay,1998-01-01,12.2
+SGP,Singapore,1998-01-01,0.4
+SLV,El Salvador,1998-01-01,-5.3
+SVK,Slovakia,1998-01-01,7.6
+SWE,Sweden,1998-01-01,-0.5
+THA,Thailand,1998-01-01,6.9
+TTO,Trinidad and Tobago,1998-01-01,1.8
+TUR,Turkey,1998-01-01,87.8
+TWN,"Taiwan, China",1998-01-01,0.8
+USA,United States,1998-01-01,2.3
+VEN,"Venezuela, RB",1998-01-01,15.5
+AUS,Australia,1999-01-01,1.0
+AUT,Austria,1999-01-01,0.7
+BEL,Belgium,1999-01-01,1.3
+BRA,Brazil,1999-01-01,4.1
+CAN,Canada,1999-01-01,1.5
+CHE,Switzerland,1999-01-01,0.0
+CHL,Chile,1999-01-01,3.8
+COL,Colombia,1999-01-01,13.6
+CRI,Costa Rica,1999-01-01,10.6
+CYP,Cyprus,1999-01-01,1.5
+CZE,Czech Republic,1999-01-01,0.0
+DEU,Germany,1999-01-01,0.6
+DJI,Djibouti,1999-01-01,-8.2
+DNK,Denmark,1999-01-01,2.5
+ESP,Spain,1999-01-01,2.5
+EST,Estonia,1999-01-01,5.8
+FIN,Finland,1999-01-01,1.2
+FRA,France,1999-01-01,0.3
+GBR,United Kingdom,1999-01-01,0.7
+GRC,Greece,1999-01-01,3.6
+HRV,Croatia,1999-01-01,4.9
+HUN,Hungary,1999-01-01,9.4
+IRL,Ireland,1999-01-01,1.3
+ISL,Iceland,1999-01-01,3.3
+ISR,Israel,1999-01-01,4.5
+ITA,Italy,1999-01-01,-3.6
+JPN,Japan,1999-01-01,-0.1
+KOR,"Korea, Rep.",1999-01-01,0.3
+LTU,Lithuania,1999-01-01,3.2
+LUX,Luxembourg,1999-01-01,0.9
+LVA,Latvia,1999-01-01,2.3
+MEX,Mexico,1999-01-01,17.2
+MLT,Malta,1999-01-01,2.4
+NGA,Nigeria,1999-01-01,5.2
+NLD,Netherlands,1999-01-01,2.2
+NOR,Norway,1999-01-01,2.2
+NZL,New Zealand,1999-01-01,-0.4
+PER,Peru,1999-01-01,6.5
+POL,Poland,1999-01-01,10.2
+PRT,Portugal,1999-01-01,2.8
+PRY,Paraguay,1999-01-01,7.4
+SGP,Singapore,1999-01-01,0.5
+SLV,El Salvador,1999-01-01,-0.2
+SVK,Slovakia,1999-01-01,9.0
+SWE,Sweden,1999-01-01,0.3
+THA,Thailand,1999-01-01,1.7
+TTO,Trinidad and Tobago,1999-01-01,1.1
+TUR,Turkey,1999-01-01,71.5
+TWN,"Taiwan, China",1999-01-01,0.8
+USA,United States,1999-01-01,2.1
+VEN,"Venezuela, RB",1999-01-01,11.6
+AUS,Australia,2000-01-01,4.2
+AUT,Austria,2000-01-01,1.7
+ARM,Armenia,2000-01-01,-3.0
+BEL,Belgium,2000-01-01,1.8
+BGR,Bulgaria,2000-01-01,1.1
+BRA,Brazil,2000-01-01,5.6
+CAN,Canada,2000-01-01,1.7
+CHE,Switzerland,2000-01-01,0.9
+CHL,Chile,2000-01-01,3.1
+COL,Colombia,2000-01-01,7.7
+CRI,Costa Rica,2000-01-01,10.9
+CYP,Cyprus,2000-01-01,2.8
+CZE,Czech Republic,2000-01-01,1.9
+DEU,Germany,2000-01-01,0.8
+DNK,Denmark,2000-01-01,2.2
+ESP,Spain,2000-01-01,2.9
+EST,Estonia,2000-01-01,3.9
+FIN,Finland,2000-01-01,2.6
+FRA,France,2000-01-01,0.8
+GBR,United Kingdom,2000-01-01,0.1
+GRC,Greece,2000-01-01,2.2
+HRV,Croatia,2000-01-01,2.8
+HUN,Hungary,2000-01-01,8.2
+IRL,Ireland,2000-01-01,5.7
+ISL,Iceland,2000-01-01,4.7
+ISR,Israel,2000-01-01,0.3
+ITA,Italy,2000-01-01,9.7
+JPN,Japan,2000-01-01,-0.5
+KOR,"Korea, Rep.",2000-01-01,1.9
+LTU,Lithuania,2000-01-01,-1.0
+LUX,Luxembourg,2000-01-01,2.2
+LVA,Latvia,2000-01-01,0.7
+MAR,Morocco,2000-01-01,2.2
+MEX,Mexico,2000-01-01,9.7
+MLT,Malta,2000-01-01,2.9
+NGA,Nigeria,2000-01-01,7.7
+NLD,Netherlands,2000-01-01,1.6
+NOR,Norway,2000-01-01,2.5
+NZL,New Zealand,2000-01-01,2.3
+PER,Peru,2000-01-01,3.7
+PHL,Philippines,2000-01-01,6.8
+POL,Poland,2000-01-01,9.2
+PRT,Portugal,2000-01-01,2.8
+PRY,Paraguay,2000-01-01,5.9
+SAU,Saudi Arabia,2000-01-01,-0.9
+SDN,Sudan,2000-01-01,4.1
+SGP,Singapore,2000-01-01,1.5
+SLV,El Salvador,2000-01-01,4.3
+SVK,Slovakia,2000-01-01,9.8
+SVN,Slovenia,2000-01-01,7.3
+SWE,Sweden,2000-01-01,0.3
+THA,Thailand,2000-01-01,1.1
+TTO,Trinidad and Tobago,2000-01-01,1.2
+TUR,Turkey,2000-01-01,58.0
+TWN,"Taiwan, China",2000-01-01,1.1
+USA,United States,2000-01-01,2.4
+VEN,"Venezuela, RB",2000-01-01,9.9
+AUS,Australia,2001-01-01,4.3
+AUT,Austria,2001-01-01,2.6
+ARM,Armenia,2001-01-01,1.0
+BEL,Belgium,2001-01-01,2.2
+BGR,Bulgaria,2001-01-01,2.1
+BRA,Brazil,2001-01-01,5.8
+CAN,Canada,2001-01-01,2.1
+CHE,Switzerland,2001-01-01,1.0
+CHL,Chile,2001-01-01,3.3
+COL,Colombia,2001-01-01,7.7
+CRI,Costa Rica,2001-01-01,10.6
+CYP,Cyprus,2001-01-01,1.6
+CZE,Czech Republic,2001-01-01,2.5
+DEU,Germany,2001-01-01,0.8
+DNK,Denmark,2001-01-01,2.2
+DOM,Dominican Republic,2001-01-01,7.8
+ESP,Spain,2001-01-01,3.5
+EST,Estonia,2001-01-01,4.1
+FIN,Finland,2001-01-01,2.6
+FRA,France,2001-01-01,-21.8
+GBR,United Kingdom,2001-01-01,1.1
+GRC,Greece,2001-01-01,3.3
+HRV,Croatia,2001-01-01,3.2
+HUN,Hungary,2001-01-01,9.4
+IRL,Ireland,2001-01-01,-11.0
+IRN,"Iran, Islamic Rep.",2001-01-01,2.2
+ISL,Iceland,2001-01-01,6.5
+ISR,Israel,2001-01-01,1.0
+ITA,Italy,2001-01-01,10.1
+JPN,Japan,2001-01-01,-0.9
+KOR,"Korea, Rep.",2001-01-01,3.6
+LTU,Lithuania,2001-01-01,0.0
+LUX,Luxembourg,2001-01-01,2.7
+LVA,Latvia,2001-01-01,0.6
+MAR,Morocco,2001-01-01,2.0
+MEX,Mexico,2001-01-01,6.5
+MLT,Malta,2001-01-01,2.3
+NGA,Nigeria,2001-01-01,10.8
+NLD,Netherlands,2001-01-01,3.5
+NOR,Norway,2001-01-01,3.3
+NZL,New Zealand,2001-01-01,2.1
+PER,Peru,2001-01-01,2.3
+PHL,Philippines,2001-01-01,5.9
+POL,Poland,2001-01-01,5.7
+PRT,Portugal,2001-01-01,3.5
+PRY,Paraguay,2001-01-01,5.0
+SAU,Saudi Arabia,2001-01-01,-2.1
+SDN,Sudan,2001-01-01,3.3
+SGP,Singapore,2001-01-01,1.6
+SLV,El Salvador,2001-01-01,-4.0
+SVK,Slovakia,2001-01-01,7.0
+SVN,Slovenia,2001-01-01,7.8
+SWE,Sweden,2001-01-01,1.8
+THA,Thailand,2001-01-01,1.8
+TTO,Trinidad and Tobago,2001-01-01,1.1
+TUN,Tunisia,2001-01-01,1.6
+TUR,Turkey,2001-01-01,51.1
+TWN,"Taiwan, China",2001-01-01,0.3
+USA,United States,2001-01-01,2.7
+VEN,"Venezuela, RB",2001-01-01,7.4
+AUS,Australia,2002-01-01,3.0
+AUT,Austria,2002-01-01,2.2
+ARM,Armenia,2002-01-01,0.1
+BEL,Belgium,2002-01-01,-8.2
+BGR,Bulgaria,2002-01-01,2.1
+BRA,Brazil,2002-01-01,8.4
+CAN,Canada,2002-01-01,2.7
+CHE,Switzerland,2002-01-01,0.6
+CHL,Chile,2002-01-01,2.7
+COL,Colombia,2002-01-01,5.8
+CRI,Costa Rica,2002-01-01,8.8
+CYP,Cyprus,2002-01-01,2.1
+CZE,Czech Republic,2002-01-01,0.6
+DEU,Germany,2002-01-01,1.6
+DNK,Denmark,2002-01-01,2.5
+DOM,Dominican Republic,2002-01-01,4.8
+ESP,Spain,2002-01-01,2.8
+EST,Estonia,2002-01-01,2.9
+FIN,Finland,2002-01-01,1.5
+FRA,France,2002-01-01,1.8
+GBR,United Kingdom,2002-01-01,1.5
+GRC,Greece,2002-01-01,3.4
+GTM,Guatemala,2002-01-01,6.8
+HND,Honduras,2002-01-01,8.4
+HRV,Croatia,2002-01-01,2.9
+HUN,Hungary,2002-01-01,5.8
+IRL,Ireland,2002-01-01,17.0
+IRN,"Iran, Islamic Rep.",2002-01-01,3.1
+ISL,Iceland,2002-01-01,6.2
+ISR,Israel,2002-01-01,6.0
+ITA,Italy,2002-01-01,-22.9
+JPN,Japan,2002-01-01,-0.8
+KOR,"Korea, Rep.",2002-01-01,3.0
+KWT,Kuwait,2002-01-01,0.2
+LTU,Lithuania,2002-01-01,0.5
+LUX,Luxembourg,2002-01-01,1.9
+LVA,Latvia,2002-01-01,1.6
+MAR,Morocco,2002-01-01,1.6
+MEX,Mexico,2002-01-01,4.5
+MLT,Malta,2002-01-01,2.7
+MUS,Mauritius,2002-01-01,4.8
+NGA,Nigeria,2002-01-01,8.1
+NLD,Netherlands,2002-01-01,3.4
+NOR,Norway,2002-01-01,2.0
+NZL,New Zealand,2002-01-01,2.7
+PER,Peru,2002-01-01,1.1
+PHL,Philippines,2002-01-01,3.3
+POL,Poland,2002-01-01,2.7
+PRT,Portugal,2002-01-01,4.8
+PRY,Paraguay,2002-01-01,9.8
+SAU,Saudi Arabia,2002-01-01,-0.6
+SDN,Sudan,2002-01-01,9.4
+SGP,Singapore,2002-01-01,-0.1
+SLV,El Salvador,2002-01-01,-0.2
+SVK,Slovakia,2002-01-01,4.0
+SVN,Slovenia,2002-01-01,8.0
+SWE,Sweden,2002-01-01,2.0
+THA,Thailand,2002-01-01,0.4
+TTO,Trinidad and Tobago,2002-01-01,0.6
+TUN,Tunisia,2002-01-01,1.7
+TUR,Turkey,2002-01-01,43.2
+TWN,"Taiwan, China",2002-01-01,0.0
+USA,United States,2002-01-01,2.3
+VEN,"Venezuela, RB",2002-01-01,53.8
+AUS,Australia,2003-01-01,2.3
+AUT,Austria,2003-01-01,1.4
+ARM,Armenia,2003-01-01,2.5
+BEL,Belgium,2003-01-01,24.4
+BGR,Bulgaria,2003-01-01,1.7
+BRA,Brazil,2003-01-01,13.1
+CAN,Canada,2003-01-01,2.4
+CHE,Switzerland,2003-01-01,-0.8
+CHL,Chile,2003-01-01,1.6
+COL,Colombia,2003-01-01,6.4
+CRI,Costa Rica,2003-01-01,9.8
+CYP,Cyprus,2003-01-01,3.1
+CZE,Czech Republic,2003-01-01,0.0
+DEU,Germany,2003-01-01,0.9
+DNK,Denmark,2003-01-01,2.3
+DOM,Dominican Republic,2003-01-01,23.7
+ESP,Spain,2003-01-01,2.9
+EST,Estonia,2003-01-01,2.4
+FIN,Finland,2003-01-01,0.6
+FRA,France,2003-01-01,2.1
+GBR,United Kingdom,2003-01-01,1.3
+GRC,Greece,2003-01-01,5.9
+GTM,Guatemala,2003-01-01,4.7
+HND,Honduras,2003-01-01,7.7
+HRV,Croatia,2003-01-01,1.8
+HUN,Hungary,2003-01-01,4.5
+IRL,Ireland,2003-01-01,3.9
+ISL,Iceland,2003-01-01,3.0
+ISR,Israel,2003-01-01,-0.3
+ITA,Italy,2003-01-01,2.5
+JPN,Japan,2003-01-01,-0.3
+KAZ,Kazakhstan,2003-01-01,5.1
+KOR,"Korea, Rep.",2003-01-01,3.1
+KWT,Kuwait,2003-01-01,-1.1
+LTU,Lithuania,2003-01-01,0.7
+LUX,Luxembourg,2003-01-01,1.9
+LVA,Latvia,2003-01-01,0.8
+MAR,Morocco,2003-01-01,1.1
+MEX,Mexico,2003-01-01,3.9
+MLT,Malta,2003-01-01,1.9
+MUS,Mauritius,2003-01-01,6.6
+NGA,Nigeria,2003-01-01,19.8
+NLD,Netherlands,2003-01-01,2.0
+NOR,Norway,2003-01-01,1.1
+NZL,New Zealand,2003-01-01,1.8
+PER,Peru,2003-01-01,1.0
+PHL,Philippines,2003-01-01,2.5
+POL,Poland,2003-01-01,0.7
+PRT,Portugal,2003-01-01,3.4
+PRY,Paraguay,2003-01-01,13.3
+SAU,Saudi Arabia,2003-01-01,-1.0
+SDN,Sudan,2003-01-01,3.6
+SGP,Singapore,2003-01-01,0.9
+SLV,El Salvador,2003-01-01,4.5
+SVK,Slovakia,2003-01-01,3.4
+SVN,Slovenia,2003-01-01,5.8
+SWE,Sweden,2003-01-01,1.1
+THA,Thailand,2003-01-01,-0.3
+TTO,Trinidad and Tobago,2003-01-01,0.4
+TUN,Tunisia,2003-01-01,1.8
+TUR,Turkey,2003-01-01,21.8
+TWN,"Taiwan, China",2003-01-01,-0.7
+USA,United States,2003-01-01,1.5
+VEN,"Venezuela, RB",2003-01-01,55.2
+ZAF,South Africa,2003-01-01,5.1
+AFG,Afghanistan,2004-01-01,15.3
+AUS,Australia,2004-01-01,2.0
+AUT,Austria,2004-01-01,1.8
+ARM,Armenia,2004-01-01,4.9
+BEL,Belgium,2004-01-01,1.9
+BGR,Bulgaria,2004-01-01,1.4
+BLR,Belarus,2004-01-01,17.3
+BRA,Brazil,2004-01-01,7.9
+CAN,Canada,2004-01-01,1.3
+CHE,Switzerland,2004-01-01,0.8
+CHL,Chile,2004-01-01,1.2
+COL,Colombia,2004-01-01,5.7
+CRI,Costa Rica,2004-01-01,9.5
+CYP,Cyprus,2004-01-01,0.8
+CZE,Czech Republic,2004-01-01,1.5
+DEU,Germany,2004-01-01,1.7
+DNK,Denmark,2004-01-01,1.3
+DOM,Dominican Republic,2004-01-01,47.1
+ESP,Spain,2004-01-01,2.4
+EST,Estonia,2004-01-01,1.2
+FIN,Finland,2004-01-01,-0.2
+FRA,France,2004-01-01,2.2
+GBR,United Kingdom,2004-01-01,1.1
+GRC,Greece,2004-01-01,3.2
+GTM,Guatemala,2004-01-01,5.7
+HND,Honduras,2004-01-01,7.6
+HRV,Croatia,2004-01-01,2.3
+HUN,Hungary,2004-01-01,5.7
+IRL,Ireland,2004-01-01,2.4
+ISL,Iceland,2004-01-01,3.2
+ISR,Israel,2004-01-01,-1.2
+ITA,Italy,2004-01-01,2.1
+JPN,Japan,2004-01-01,-0.4
+KAZ,Kazakhstan,2004-01-01,7.2
+KOR,"Korea, Rep.",2004-01-01,2.9
+KWT,Kuwait,2004-01-01,0.8
+LTU,Lithuania,2004-01-01,0.7
+LUX,Luxembourg,2004-01-01,1.9
+LVA,Latvia,2004-01-01,4.4
+MAR,Morocco,2004-01-01,1.5
+MEX,Mexico,2004-01-01,3.8
+MLT,Malta,2004-01-01,2.9
+MUS,Mauritius,2004-01-01,15.0
+NGA,Nigeria,2004-01-01,13.1
+NLD,Netherlands,2004-01-01,1.5
+NOR,Norway,2004-01-01,0.5
+NZL,New Zealand,2004-01-01,2.2
+PER,Peru,2004-01-01,1.1
+PHL,Philippines,2004-01-01,4.2
+POL,Poland,2004-01-01,1.7
+PRT,Portugal,2004-01-01,2.5
+PRY,Paraguay,2004-01-01,3.1
+RUS,Russian Federation,2004-01-01,10.7
+SAU,Saudi Arabia,2004-01-01,-1.1
+SDN,Sudan,2004-01-01,4.5
+SGP,Singapore,2004-01-01,2.0
+SLV,El Salvador,2004-01-01,6.5
+SVK,Slovakia,2004-01-01,3.2
+SVN,Slovenia,2004-01-01,3.1
+SWE,Sweden,2004-01-01,0.2
+THA,Thailand,2004-01-01,0.3
+TKM,Turkmenistan,2004-01-01,5.2
+TTO,Trinidad and Tobago,2004-01-01,1.6
+TUN,Tunisia,2004-01-01,2.2
+TUR,Turkey,2004-01-01,9.8
+TWN,"Taiwan, China",2004-01-01,0.3
+USA,United States,2004-01-01,1.8
+VEN,"Venezuela, RB",2004-01-01,29.2
+ZAF,South Africa,2004-01-01,-2.4
+AFG,Afghanistan,2005-01-01,10.3
+AUS,Australia,2005-01-01,2.1
+AUT,Austria,2005-01-01,1.7
+ARM,Armenia,2005-01-01,0.8
+BEL,Belgium,2005-01-01,2.1
+BGR,Bulgaria,2005-01-01,1.4
+BLR,Belarus,2005-01-01,10.1
+BRA,Brazil,2005-01-01,7.4
+CAN,Canada,2005-01-01,1.4
+CHE,Switzerland,2005-01-01,0.8
+CHL,Chile,2005-01-01,2.4
+COL,Colombia,2005-01-01,4.6
+CRI,Costa Rica,2005-01-01,10.4
+CYP,Cyprus,2005-01-01,0.8
+CZE,Czech Republic,2005-01-01,0.5
+DEU,Germany,2005-01-01,1.1
+DNK,Denmark,2005-01-01,1.4
+DOM,Dominican Republic,2005-01-01,4.9
+ESP,Spain,2005-01-01,2.5
+EST,Estonia,2005-01-01,1.9
+FIN,Finland,2005-01-01,0.2
+FRA,France,2005-01-01,1.5
+GBR,United Kingdom,2005-01-01,1.4
+GRC,Greece,2005-01-01,3.2
+GTM,Guatemala,2005-01-01,6.7
+HND,Honduras,2005-01-01,7.9
+HRV,Croatia,2005-01-01,2.0
+HUN,Hungary,2005-01-01,2.1
+IRL,Ireland,2005-01-01,2.5
+IRQ,Iraq,2005-01-01,30.8
+ISL,Iceland,2005-01-01,5.1
+ISR,Israel,2005-01-01,0.1
+ITA,Italy,2005-01-01,2.1
+JPN,Japan,2005-01-01,-0.3
+KAZ,Kazakhstan,2005-01-01,6.8
+KOR,"Korea, Rep.",2005-01-01,2.3
+KWT,Kuwait,2005-01-01,4.3
+LBY,Libya,2005-01-01,1.1
+LTU,Lithuania,2005-01-01,1.2
+LUX,Luxembourg,2005-01-01,1.8
+LVA,Latvia,2005-01-01,4.3
+MAR,Morocco,2005-01-01,1.6
+MEX,Mexico,2005-01-01,3.5
+MLT,Malta,2005-01-01,1.9
+MUS,Mauritius,2005-01-01,15.9
+NGA,Nigeria,2005-01-01,10.5
+NLD,Netherlands,2005-01-01,1.2
+NOR,Norway,2005-01-01,1.4
+NZL,New Zealand,2005-01-01,2.8
+PER,Peru,2005-01-01,1.1
+PHL,Philippines,2005-01-01,6.2
+POL,Poland,2005-01-01,1.3
+PRT,Portugal,2005-01-01,-17.3
+PRY,Paraguay,2005-01-01,5.3
+RUS,Russian Federation,2005-01-01,10.0
+SAU,Saudi Arabia,2005-01-01,-2.5
+SDN,Sudan,2005-01-01,-0.2
+SGP,Singapore,2005-01-01,1.3
+SLV,El Salvador,2005-01-01,6.0
+SVK,Slovakia,2005-01-01,1.8
+SVN,Slovenia,2005-01-01,1.1
+SWE,Sweden,2005-01-01,0.0
+THA,Thailand,2005-01-01,1.6
+TKM,Turkmenistan,2005-01-01,8.2
+TTO,Trinidad and Tobago,2005-01-01,2.6
+TUN,Tunisia,2005-01-01,2.2
+TUR,Turkey,2005-01-01,8.9
+TWN,"Taiwan, China",2005-01-01,0.2
+USA,United States,2005-01-01,2.2
+VEN,"Venezuela, RB",2005-01-01,12.6
+ZAF,South Africa,2005-01-01,1.5
+AFG,Afghanistan,2006-01-01,7.7
+AUS,Australia,2006-01-01,2.0
+AUT,Austria,2006-01-01,0.9
+ARM,Armenia,2006-01-01,2.7
+BEL,Belgium,2006-01-01,0.6
+BGR,Bulgaria,2006-01-01,1.6
+BLR,Belarus,2006-01-01,5.0
+BRA,Brazil,2006-01-01,4.5
+CAN,Canada,2006-01-01,1.3
+CHE,Switzerland,2006-01-01,0.7
+CHL,Chile,2006-01-01,3.0
+CHN,China,2006-01-01,0.6
+COL,Colombia,2006-01-01,3.7
+CRI,Costa Rica,2006-01-01,10.8
+CYP,Cyprus,2006-01-01,0.8
+CZE,Czech Republic,2006-01-01,0.7
+DEU,Germany,2006-01-01,1.1
+DNK,Denmark,2006-01-01,1.4
+DOM,Dominican Republic,2006-01-01,5.1
+EGY,"Egypt, Arab Rep.",2006-01-01,6.2
+ESP,Spain,2006-01-01,2.8
+EST,Estonia,2006-01-01,3.3
+FIN,Finland,2006-01-01,1.3
+FRA,France,2006-01-01,1.3
+GBR,United Kingdom,2006-01-01,1.7
+GRC,Greece,2006-01-01,2.4
+GTM,Guatemala,2006-01-01,5.1
+HKG,"Hong Kong SAR, China",2006-01-01,1.7
+HND,Honduras,2006-01-01,6.0
+HRV,Croatia,2006-01-01,3.5
+HUN,Hungary,2006-01-01,2.2
+IRL,Ireland,2006-01-01,4.2
+IRQ,Iraq,2006-01-01,31.7
+ISL,Iceland,2006-01-01,6.3
+ISR,Israel,2006-01-01,1.4
+ITA,Italy,2006-01-01,1.7
+JPN,Japan,2006-01-01,-0.2
+KAZ,Kazakhstan,2006-01-01,7.7
+KOR,"Korea, Rep.",2006-01-01,1.8
+KWT,Kuwait,2006-01-01,3.0
+LBY,Libya,2006-01-01,1.6
+LTU,Lithuania,2006-01-01,2.3
+LUX,Luxembourg,2006-01-01,2.1
+LVA,Latvia,2006-01-01,4.7
+MAR,Morocco,2006-01-01,3.1
+MEX,Mexico,2006-01-01,3.3
+MKD,North Macedonia,2006-01-01,3.4
+MLT,Malta,2006-01-01,1.8
+MUS,Mauritius,2006-01-01,12.7
+MYS,Malaysia,2006-01-01,1.5
+NGA,Nigeria,2006-01-01,13.9
+NLD,Netherlands,2006-01-01,0.4
+NOR,Norway,2006-01-01,1.0
+NZL,New Zealand,2006-01-01,2.8
+PER,Peru,2006-01-01,1.4
+PHL,Philippines,2006-01-01,5.4
+POL,Poland,2006-01-01,0.3
+PRT,Portugal,2006-01-01,13.2
+PRY,Paraguay,2006-01-01,9.1
+RUS,Russian Federation,2006-01-01,8.1
+SAU,Saudi Arabia,2006-01-01,-0.4
+SDN,Sudan,2006-01-01,13.4
+SGP,Singapore,2006-01-01,1.7
+SLV,El Salvador,2006-01-01,8.8
+SVK,Slovakia,2006-01-01,2.8
+SVN,Slovenia,2006-01-01,1.6
+SWE,Sweden,2006-01-01,0.7
+THA,Thailand,2006-01-01,2.4
+TJK,Tajikistan,2006-01-01,6.1
+TKM,Turkmenistan,2006-01-01,5.1
+TTO,Trinidad and Tobago,2006-01-01,3.6
+TUN,Tunisia,2006-01-01,2.5
+TUR,Turkey,2006-01-01,7.4
+TWN,"Taiwan, China",2006-01-01,0.5
+URY,Uruguay,2006-01-01,9.1
+USA,United States,2006-01-01,2.5
+VEN,"Venezuela, RB",2006-01-01,8.1
+ZAF,South Africa,2006-01-01,1.8
+AFG,Afghanistan,2007-01-01,5.0
+AUS,Australia,2007-01-01,2.5
+AUT,Austria,2007-01-01,1.6
+ARM,Armenia,2007-01-01,3.8
+AZE,Azerbaijan,2007-01-01,6.3
+BEL,Belgium,2007-01-01,1.6
+BGR,Bulgaria,2007-01-01,1.9
+BLR,Belarus,2007-01-01,6.5
+BRA,Brazil,2007-01-01,3.6
+CAN,Canada,2007-01-01,2.0
+CHE,Switzerland,2007-01-01,0.6
+CHL,Chile,2007-01-01,2.4
+CHN,China,2007-01-01,0.9
+COL,Colombia,2007-01-01,5.8
+CRI,Costa Rica,2007-01-01,7.9
+CYP,Cyprus,2007-01-01,1.7
+CZE,Czech Republic,2007-01-01,1.5
+DEU,Germany,2007-01-01,1.9
+DNK,Denmark,2007-01-01,1.4
+DOM,Dominican Republic,2007-01-01,4.6
+EGY,"Egypt, Arab Rep.",2007-01-01,7.9
+ESP,Spain,2007-01-01,2.4
+EST,Estonia,2007-01-01,5.4
+FIN,Finland,2007-01-01,2.6
+FRA,France,2007-01-01,-11.3
+GBR,United Kingdom,2007-01-01,1.9
+GRC,Greece,2007-01-01,2.7
+GTM,Guatemala,2007-01-01,4.9
+HKG,"Hong Kong SAR, China",2007-01-01,1.5
+HND,Honduras,2007-01-01,6.6
+HRV,Croatia,2007-01-01,3.2
+HUN,Hungary,2007-01-01,5.3
+IRL,Ireland,2007-01-01,5.9
+IRQ,Iraq,2007-01-01,19.3
+ISL,Iceland,2007-01-01,6.6
+ISR,Israel,2007-01-01,0.0
+ITA,Italy,2007-01-01,1.9
+JOR,Jordan,2007-01-01,3.2
+JPN,Japan,2007-01-01,-0.1
+KAZ,Kazakhstan,2007-01-01,10.2
+KOR,"Korea, Rep.",2007-01-01,2.3
+KWT,Kuwait,2007-01-01,4.8
+LBY,Libya,2007-01-01,1.1
+LTU,Lithuania,2007-01-01,5.1
+LUX,Luxembourg,2007-01-01,2.1
+LVA,Latvia,2007-01-01,8.5
+MAR,Morocco,2007-01-01,1.7
+MEX,Mexico,2007-01-01,3.8
+MKD,North Macedonia,2007-01-01,0.7
+MLT,Malta,2007-01-01,0.8
+MUS,Mauritius,2007-01-01,6.6
+MYS,Malaysia,2007-01-01,1.5
+NGA,Nigeria,2007-01-01,2.9
+NLD,Netherlands,2007-01-01,1.5
+NOR,Norway,2007-01-01,1.7
+NZL,New Zealand,2007-01-01,2.4
+OMN,Oman,2007-01-01,2.3
+PER,Peru,2007-01-01,2.0
+PHL,Philippines,2007-01-01,2.9
+POL,Poland,2007-01-01,1.1
+PRT,Portugal,2007-01-01,2.4
+PRY,Paraguay,2007-01-01,6.4
+RUS,Russian Federation,2007-01-01,8.2
+SAU,Saudi Arabia,2007-01-01,1.3
+SDN,Sudan,2007-01-01,12.1
+SGP,Singapore,2007-01-01,2.2
+SLV,El Salvador,2007-01-01,7.0
+SRB,Serbia,2007-01-01,9.1
+SVK,Slovakia,2007-01-01,2.7
+SVN,Slovenia,2007-01-01,3.8
+SWE,Sweden,2007-01-01,2.6
+SYR,Syrian Arab Republic,2007-01-01,0.9
+THA,Thailand,2007-01-01,0.8
+TJK,Tajikistan,2007-01-01,7.5
+TKM,Turkmenistan,2007-01-01,4.7
+TTO,Trinidad and Tobago,2007-01-01,4.3
+TUN,Tunisia,2007-01-01,2.3
+TUR,Turkey,2007-01-01,7.1
+TWN,"Taiwan, China",2007-01-01,1.0
+UGA,Uganda,2007-01-01,6.6
+URY,Uruguay,2007-01-01,8.4
+USA,United States,2007-01-01,2.3
+VEN,"Venezuela, RB",2007-01-01,13.9
+XKX,Kosovo,2007-01-01,8.5
+ZAF,South Africa,2007-01-01,4.8
+AFG,Afghanistan,2008-01-01,8.7
+AUS,Australia,2008-01-01,3.6
+AUT,Austria,2008-01-01,1.9
+ARM,Armenia,2008-01-01,11.7
+AZE,Azerbaijan,2008-01-01,6.0
+BEL,Belgium,2008-01-01,1.9
+BGR,Bulgaria,2008-01-01,2.7
+BLR,Belarus,2008-01-01,12.3
+BRA,Brazil,2008-01-01,4.9
+CAN,Canada,2008-01-01,1.1
+CHE,Switzerland,2008-01-01,1.5
+CHL,Chile,2008-01-01,5.2
+CHN,China,2008-01-01,1.0
+COL,Colombia,2008-01-01,5.6
+CRI,Costa Rica,2008-01-01,12.5
+CYP,Cyprus,2008-01-01,2.7
+CZE,Czech Republic,2008-01-01,2.1
+DEU,Germany,2008-01-01,1.4
+DNK,Denmark,2008-01-01,13.5
+DOM,Dominican Republic,2008-01-01,7.2
+EGY,"Egypt, Arab Rep.",2008-01-01,18.9
+ESP,Spain,2008-01-01,2.3
+EST,Estonia,2008-01-01,6.5
+FIN,Finland,2008-01-01,2.5
+FRA,France,2008-01-01,14.6
+GBR,United Kingdom,2008-01-01,1.9
+GRC,Greece,2008-01-01,6.9
+GTM,Guatemala,2008-01-01,8.1
+HKG,"Hong Kong SAR, China",2008-01-01,2.7
+HND,Honduras,2008-01-01,9.9
+HRV,Croatia,2008-01-01,3.4
+HUN,Hungary,2008-01-01,5.1
+IRL,Ireland,2008-01-01,3.3
+IRQ,Iraq,2008-01-01,13.0
+ISL,Iceland,2008-01-01,11.4
+ISR,Israel,2008-01-01,2.8
+ITA,Italy,2008-01-01,35.2
+JOR,Jordan,2008-01-01,9.5
+JPN,Japan,2008-01-01,0.3
+KAZ,Kazakhstan,2008-01-01,17.9
+KOR,"Korea, Rep.",2008-01-01,4.3
+KWT,Kuwait,2008-01-01,9.1
+LBY,Libya,2008-01-01,4.3
+LTU,Lithuania,2008-01-01,9.0
+LUX,Luxembourg,2008-01-01,2.0
+LVA,Latvia,2008-01-01,12.2
+MAR,Morocco,2008-01-01,4.5
+MEX,Mexico,2008-01-01,4.7
+MKD,North Macedonia,2008-01-01,2.5
+MLT,Malta,2008-01-01,3.9
+MUS,Mauritius,2008-01-01,9.5
+MYS,Malaysia,2008-01-01,2.6
+NGA,Nigeria,2008-01-01,6.7
+NLD,Netherlands,2008-01-01,1.8
+NOR,Norway,2008-01-01,2.3
+NZL,New Zealand,2008-01-01,2.0
+OMN,Oman,2008-01-01,5.9
+PER,Peru,2008-01-01,4.6
+PHL,Philippines,2008-01-01,5.8
+POL,Poland,2008-01-01,2.5
+PRT,Portugal,2008-01-01,2.0
+PRY,Paraguay,2008-01-01,10.6
+ROU,Romania,2008-01-01,7.2
+RUS,Russian Federation,2008-01-01,13.7
+SAU,Saudi Arabia,2008-01-01,0.9
+SDN,Sudan,2008-01-01,8.0
+SGP,Singapore,2008-01-01,5.7
+SLV,El Salvador,2008-01-01,14.7
+SRB,Serbia,2008-01-01,7.9
+SVK,Slovakia,2008-01-01,3.9
+SVN,Slovenia,2008-01-01,5.0
+SWE,Sweden,2008-01-01,2.1
+SYR,Syrian Arab Republic,2008-01-01,5.2
+THA,Thailand,2008-01-01,0.0
+TJK,Tajikistan,2008-01-01,8.7
+TKM,Turkmenistan,2008-01-01,14.4
+TTO,Trinidad and Tobago,2008-01-01,6.2
+TUN,Tunisia,2008-01-01,3.3
+TUR,Turkey,2008-01-01,6.2
+TWN,"Taiwan, China",2008-01-01,1.3
+UGA,Uganda,2008-01-01,11.5
+URY,Uruguay,2008-01-01,22.1
+USA,United States,2008-01-01,2.3
+VEN,"Venezuela, RB",2008-01-01,19.0
+XKX,Kosovo,2008-01-01,-4.8
+ZAF,South Africa,2008-01-01,6.7
+AFG,Afghanistan,2009-01-01,4.7
+ALB,Albania,2009-01-01,1.6
+AUS,Australia,2009-01-01,2.3
+AUT,Austria,2009-01-01,1.8
+ARM,Armenia,2009-01-01,3.7
+AZE,Azerbaijan,2009-01-01,-12.9
+BEL,Belgium,2009-01-01,1.9
+BGR,Bulgaria,2009-01-01,2.0
+BLR,Belarus,2009-01-01,12.6
+BRA,Brazil,2009-01-01,5.2
+CAN,Canada,2009-01-01,1.7
+CHE,Switzerland,2009-01-01,1.1
+CHL,Chile,2009-01-01,1.2
+CHN,China,2009-01-01,-1.1
+COL,Colombia,2009-01-01,4.7
+CRI,Costa Rica,2009-01-01,9.8
+CYP,Cyprus,2009-01-01,2.1
+CZE,Czech Republic,2009-01-01,-0.8
+DEU,Germany,2009-01-01,1.3
+DNK,Denmark,2009-01-01,2.3
+DOM,Dominican Republic,2009-01-01,5.2
+EGY,"Egypt, Arab Rep.",2009-01-01,8.5
+ESP,Spain,2009-01-01,0.8
+EST,Estonia,2009-01-01,1.9
+FIN,Finland,2009-01-01,0.4
+FRA,France,2009-01-01,-11.7
+GBR,United Kingdom,2009-01-01,1.6
+GRC,Greece,2009-01-01,2.2
+GTM,Guatemala,2009-01-01,2.7
+HKG,"Hong Kong SAR, China",2009-01-01,1.8
+HND,Honduras,2009-01-01,7.2
+HRV,Croatia,2009-01-01,3.6
+HUN,Hungary,2009-01-01,4.1
+IDN,Indonesia,2009-01-01,5.7
+IRL,Ireland,2009-01-01,-4.3
+IRQ,Iraq,2009-01-01,5.1
+ISL,Iceland,2009-01-01,11.4
+ISR,Israel,2009-01-01,4.3
+ITA,Italy,2009-01-01,-13.4
+JOR,Jordan,2009-01-01,-0.8
+JPN,Japan,2009-01-01,-0.8
+KAZ,Kazakhstan,2009-01-01,8.2
+KOR,"Korea, Rep.",2009-01-01,3.6
+KWT,Kuwait,2009-01-01,3.7
+LBY,Libya,2009-01-01,2.0
+LKA,Sri Lanka,2009-01-01,2.1
+LTU,Lithuania,2009-01-01,3.9
+LUX,Luxembourg,2009-01-01,2.0
+LVA,Latvia,2009-01-01,5.4
+MAR,Morocco,2009-01-01,0.7
+MEX,Mexico,2009-01-01,5.0
+MKD,North Macedonia,2009-01-01,0.4
+MLT,Malta,2009-01-01,1.5
+MUS,Mauritius,2009-01-01,3.8
+MYS,Malaysia,2009-01-01,1.6
+NGA,Nigeria,2009-01-01,11.2
+NLD,Netherlands,2009-01-01,1.8
+NOR,Norway,2009-01-01,2.6
+NZL,New Zealand,2009-01-01,2.6
+OMN,Oman,2009-01-01,3.4
+PER,Peru,2009-01-01,4.4
+PHL,Philippines,2009-01-01,4.2
+POL,Poland,2009-01-01,2.8
+PRT,Portugal,2009-01-01,1.1
+PRY,Paraguay,2009-01-01,2.8
+ROU,Romania,2009-01-01,6.1
+RUS,Russian Federation,2009-01-01,12.1
+SAU,Saudi Arabia,2009-01-01,1.9
+SDN,Sudan,2009-01-01,10.2
+SGP,Singapore,2009-01-01,0.0
+SLV,El Salvador,2009-01-01,-17.6
+SRB,Serbia,2009-01-01,6.6
+SVK,Slovakia,2009-01-01,1.4
+SVN,Slovenia,2009-01-01,1.5
+SWE,Sweden,2009-01-01,-1.0
+SYR,Syrian Arab Republic,2009-01-01,-0.2
+THA,Thailand,2009-01-01,-1.1
+TJK,Tajikistan,2009-01-01,5.8
+TKM,Turkmenistan,2009-01-01,4.5
+TTO,Trinidad and Tobago,2009-01-01,4.2
+TUN,Tunisia,2009-01-01,3.0
+TUR,Turkey,2009-01-01,4.4
+TWN,"Taiwan, China",2009-01-01,-0.6
+UGA,Uganda,2009-01-01,11.0
+UKR,Ukraine,2009-01-01,19.4
+URY,Uruguay,2009-01-01,-18.2
+USA,United States,2009-01-01,1.7
+VEN,"Venezuela, RB",2009-01-01,30.7
+XKX,Kosovo,2009-01-01,6.3
+ZAF,South Africa,2009-01-01,7.4
+AFG,Afghanistan,2010-01-01,5.0
+ALB,Albania,2010-01-01,1.8
+AUS,Australia,2010-01-01,2.7
+AUT,Austria,2010-01-01,1.4
+ARM,Armenia,2010-01-01,7.5
+AZE,Azerbaijan,2010-01-01,4.0
+BEL,Belgium,2010-01-01,1.4
+BGR,Bulgaria,2010-01-01,1.1
+BLR,Belarus,2010-01-01,6.7
+BRA,Brazil,2010-01-01,5.0
+CAN,Canada,2010-01-01,1.3
+CHE,Switzerland,2010-01-01,0.2
+CHL,Chile,2010-01-01,0.5
+CHN,China,2010-01-01,1.0
+COL,Colombia,2010-01-01,2.8
+CRI,Costa Rica,2010-01-01,5.1
+CYP,Cyprus,2010-01-01,0.4
+CZE,Czech Republic,2010-01-01,0.1
+DEU,Germany,2010-01-01,0.7
+DNK,Denmark,2010-01-01,1.8
+DOM,Dominican Republic,2010-01-01,3.5
+EGY,"Egypt, Arab Rep.",2010-01-01,7.0
+ESP,Spain,2010-01-01,0.6
+EST,Estonia,2010-01-01,0.8
+FIN,Finland,2010-01-01,1.2
+FRA,France,2010-01-01,17.0
+GBR,United Kingdom,2010-01-01,2.0
+GRC,Greece,2010-01-01,3.4
+GTM,Guatemala,2010-01-01,2.5
+HKG,"Hong Kong SAR, China",2010-01-01,0.7
+HND,Honduras,2010-01-01,4.0
+HRV,Croatia,2010-01-01,0.5
+HUN,Hungary,2010-01-01,3.0
+IDN,Indonesia,2010-01-01,4.0
+IRL,Ireland,2010-01-01,-1.2
+IRQ,Iraq,2010-01-01,2.9
+ISL,Iceland,2010-01-01,4.7
+ISR,Israel,2010-01-01,2.9
+ITA,Italy,2010-01-01,13.8
+JOR,Jordan,2010-01-01,4.9
+JPN,Japan,2010-01-01,-1.1
+KAZ,Kazakhstan,2010-01-01,6.5
+KOR,"Korea, Rep.",2010-01-01,1.8
+KWT,Kuwait,2010-01-01,2.2
+LBY,Libya,2010-01-01,2.2
+LKA,Sri Lanka,2010-01-01,2.9
+LTU,Lithuania,2010-01-01,0.1
+LUX,Luxembourg,2010-01-01,1.6
+LVA,Latvia,2010-01-01,-2.2
+MAC,"Macao SAR, China",2010-01-01,19.5
+MAR,Morocco,2010-01-01,0.4
+MEX,Mexico,2010-01-01,3.9
+MKD,North Macedonia,2010-01-01,0.2
+MLT,Malta,2010-01-01,1.1
+MUS,Mauritius,2010-01-01,2.8
+MYS,Malaysia,2010-01-01,1.4
+NGA,Nigeria,2010-01-01,12.0
+NLD,Netherlands,2010-01-01,1.6
+NOR,Norway,2010-01-01,1.5
+NZL,New Zealand,2010-01-01,1.9
+OMN,Oman,2010-01-01,4.0
+PER,Peru,2010-01-01,1.9
+PHL,Philippines,2010-01-01,3.6
+POL,Poland,2010-01-01,1.7
+PRT,Portugal,2010-01-01,1.0
+PRY,Paraguay,2010-01-01,4.8
+ROU,Romania,2010-01-01,5.7
+RUS,Russian Federation,2010-01-01,5.5
+SAU,Saudi Arabia,2010-01-01,1.2
+SDN,Sudan,2010-01-01,9.9
+SGP,Singapore,2010-01-01,1.5
+SLV,El Salvador,2010-01-01,-0.4
+SRB,Serbia,2010-01-01,9.6
+SVK,Slovakia,2010-01-01,0.8
+SVN,Slovenia,2010-01-01,0.3
+SWE,Sweden,2010-01-01,0.5
+SYR,Syrian Arab Republic,2010-01-01,3.0
+THA,Thailand,2010-01-01,0.8
+TJK,Tajikistan,2010-01-01,5.9
+TKM,Turkmenistan,2010-01-01,6.6
+TTO,Trinidad and Tobago,2010-01-01,4.3
+TUN,Tunisia,2010-01-01,2.8
+TUR,Turkey,2010-01-01,4.1
+TWN,"Taiwan, China",2010-01-01,0.5
+UGA,Uganda,2010-01-01,4.8
+UKR,Ukraine,2010-01-01,8.6
+URY,Uruguay,2010-01-01,9.1
+USA,United States,2010-01-01,1.0
+VEN,"Venezuela, RB",2010-01-01,28.7
+VNM,Vietnam,2010-01-01,7.8
+XKX,Kosovo,2010-01-01,15.0
+ZAF,South Africa,2010-01-01,4.1
+AFG,Afghanistan,2011-01-01,14.8
+ALB,Albania,2011-01-01,3.2
+AUS,Australia,2011-01-01,2.2
+AUT,Austria,2011-01-01,2.4
+ARM,Armenia,2011-01-01,8.6
+AZE,Azerbaijan,2011-01-01,-0.5
+BEL,Belgium,2011-01-01,1.8
+BGR,Bulgaria,2011-01-01,1.8
+BLR,Belarus,2011-01-01,58.6
+BRA,Brazil,2011-01-01,6.5
+CAN,Canada,2011-01-01,1.4
+CHE,Switzerland,2011-01-01,2.6
+CHL,Chile,2011-01-01,1.3
+CHN,China,2011-01-01,2.1
+COL,Colombia,2011-01-01,2.9
+CRI,Costa Rica,2011-01-01,4.6
+CYP,Cyprus,2011-01-01,1.8
+CZE,Czech Republic,2011-01-01,1.1
+DEU,Germany,2011-01-01,0.9
+DNK,Denmark,2011-01-01,1.8
+DOM,Dominican Republic,2011-01-01,5.5
+EGY,"Egypt, Arab Rep.",2011-01-01,8.3
+ESP,Spain,2011-01-01,1.3
+EST,Estonia,2011-01-01,2.3
+FIN,Finland,2011-01-01,2.0
+FRA,France,2011-01-01,1.1
+GBR,United Kingdom,2011-01-01,2.8
+GRC,Greece,2011-01-01,1.9
+GTM,Guatemala,2011-01-01,4.7
+HKG,"Hong Kong SAR, China",2011-01-01,5.0
+HND,Honduras,2011-01-01,5.6
+HRV,Croatia,2011-01-01,0.6
+HUN,Hungary,2011-01-01,2.7
+IDN,Indonesia,2011-01-01,4.6
+IRL,Ireland,2011-01-01,26.6
+IRQ,Iraq,2011-01-01,6.5
+ISL,Iceland,2011-01-01,2.6
+ISR,Israel,2011-01-01,3.0
+ITA,Italy,2011-01-01,-3.3
+JOR,Jordan,2011-01-01,4.5
+JPN,Japan,2011-01-01,-0.8
+KAZ,Kazakhstan,2011-01-01,8.0
+KGZ,Kyrgyz Republic,2011-01-01,2.0
+KOR,"Korea, Rep.",2011-01-01,3.2
+LKA,Sri Lanka,2011-01-01,3.6
+LTU,Lithuania,2011-01-01,2.3
+LUX,Luxembourg,2011-01-01,2.4
+LVA,Latvia,2011-01-01,0.8
+MAC,"Macao SAR, China",2011-01-01,41.2
+MAR,Morocco,2011-01-01,1.8
+MEX,Mexico,2011-01-01,3.2
+MKD,North Macedonia,2011-01-01,1.2
+MLT,Malta,2011-01-01,1.5
+MNE,Montenegro,2011-01-01,6.6
+MUS,Mauritius,2011-01-01,4.7
+MYS,Malaysia,2011-01-01,1.9
+NGA,Nigeria,2011-01-01,10.6
+NLD,Netherlands,2011-01-01,1.8
+NOR,Norway,2011-01-01,1.8
+NZL,New Zealand,2011-01-01,2.6
+OMN,Oman,2011-01-01,4.3
+PER,Peru,2011-01-01,3.0
+PHL,Philippines,2011-01-01,4.3
+POL,Poland,2011-01-01,2.4
+PRT,Portugal,2011-01-01,-1.1
+PRY,Paraguay,2011-01-01,7.9
+ROU,Romania,2011-01-01,4.3
+RUS,Russian Federation,2011-01-01,7.6
+SAU,Saudi Arabia,2011-01-01,1.4
+SDN,Sudan,2011-01-01,15.8
+SGP,Singapore,2011-01-01,2.2
+SLV,El Salvador,2011-01-01,2.3
+SRB,Serbia,2011-01-01,7.4
+SVK,Slovakia,2011-01-01,1.4
+SVN,Slovenia,2011-01-01,0.8
+SWE,Sweden,2011-01-01,3.0
+SYR,Syrian Arab Republic,2011-01-01,3.6
+THA,Thailand,2011-01-01,0.5
+TJK,Tajikistan,2011-01-01,6.0
+TKM,Turkmenistan,2011-01-01,1.7
+TTO,Trinidad and Tobago,2011-01-01,1.7
+TUN,Tunisia,2011-01-01,2.9
+TUR,Turkey,2011-01-01,5.7
+TWN,"Taiwan, China",2011-01-01,0.8
+UGA,Uganda,2011-01-01,17.3
+UKR,Ukraine,2011-01-01,7.7
+URY,Uruguay,2011-01-01,14.1
+USA,United States,2011-01-01,1.7
+VEN,"Venezuela, RB",2011-01-01,27.9
+VNM,Vietnam,2011-01-01,13.6
+XKX,Kosovo,2011-01-01,0.0
+ZAF,South Africa,2011-01-01,3.5
+AFG,Afghanistan,2012-01-01,7.9
+ALB,Albania,2012-01-01,1.7
+AUS,Australia,2012-01-01,2.1
+AUT,Austria,2012-01-01,2.1
+ARM,Armenia,2012-01-01,5.3
+AZE,Azerbaijan,2012-01-01,-1.6
+BEL,Belgium,2012-01-01,2.2
+BGR,Bulgaria,2012-01-01,2.1
+BLR,Belarus,2012-01-01,58.3
+BRA,Brazil,2012-01-01,5.6
+CAN,Canada,2012-01-01,1.4
+CHE,Switzerland,2012-01-01,0.3
+CHL,Chile,2012-01-01,2.2
+CHN,China,2012-01-01,1.4
+COL,Colombia,2012-01-01,3.3
+CRI,Costa Rica,2012-01-01,4.6
+CYP,Cyprus,2012-01-01,1.7
+CZE,Czech Republic,2012-01-01,0.8
+DEU,Germany,2012-01-01,1.3
+DNK,Denmark,2012-01-01,1.9
+DOM,Dominican Republic,2012-01-01,3.7
+EGY,"Egypt, Arab Rep.",2012-01-01,6.2
+ESP,Spain,2012-01-01,1.2
+EST,Estonia,2012-01-01,2.2
+FIN,Finland,2012-01-01,2.3
+FRA,France,2012-01-01,1.3
+GBR,United Kingdom,2012-01-01,2.1
+GRC,Greece,2012-01-01,0.2
+GTM,Guatemala,2012-01-01,3.9
+HKG,"Hong Kong SAR, China",2012-01-01,3.9
+HND,Honduras,2012-01-01,6.1
+HRV,Croatia,2012-01-01,1.0
+HUN,Hungary,2012-01-01,5.1
+IDN,Indonesia,2012-01-01,4.3
+IND,India,2012-01-01,9.4
+IRL,Ireland,2012-01-01,-2.2
+IRQ,Iraq,2012-01-01,5.6
+ISL,Iceland,2012-01-01,4.6
+ISR,Israel,2012-01-01,1.3
+ITA,Italy,2012-01-01,1.7
+JOR,Jordan,2012-01-01,4.5
+JPN,Japan,2012-01-01,-0.5
+KAZ,Kazakhstan,2012-01-01,5.6
+KGZ,Kyrgyz Republic,2012-01-01,1.3
+KOR,"Korea, Rep.",2012-01-01,1.7
+LAO,"Lao, PDR",2012-01-01,3.5
+LKA,Sri Lanka,2012-01-01,8.5
+LTU,Lithuania,2012-01-01,2.3
+LUX,Luxembourg,2012-01-01,2.1
+LVA,Latvia,2012-01-01,0.4
+MAC,"Macao SAR, China",2012-01-01,13.9
+MAR,Morocco,2012-01-01,0.9
+MEX,Mexico,2012-01-01,3.4
+MKD,North Macedonia,2012-01-01,2.0
+MLT,Malta,2012-01-01,2.6
+MNE,Montenegro,2012-01-01,1.6
+MUS,Mauritius,2012-01-01,3.1
+MYS,Malaysia,2012-01-01,1.3
+NGA,Nigeria,2012-01-01,13.3
+NIC,Nicaragua,2012-01-01,8.1
+NLD,Netherlands,2012-01-01,2.0
+NOR,Norway,2012-01-01,1.6
+NZL,New Zealand,2012-01-01,1.3
+OMN,Oman,2012-01-01,4.0
+PER,Peru,2012-01-01,3.6
+PHL,Philippines,2012-01-01,3.7
+POL,Poland,2012-01-01,2.2
+PRT,Portugal,2012-01-01,-20.1
+PRY,Paraguay,2012-01-01,2.7
+ROU,Romania,2012-01-01,2.8
+RUS,Russian Federation,2012-01-01,5.6
+SAU,Saudi Arabia,2012-01-01,2.9
+SDN,Sudan,2012-01-01,34.5
+SGP,Singapore,2012-01-01,2.5
+SLV,El Salvador,2012-01-01,1.2
+SRB,Serbia,2012-01-01,11.1
+SVK,Slovakia,2012-01-01,2.6
+SVN,Slovenia,2012-01-01,1.7
+SWE,Sweden,2012-01-01,0.9
+SYR,Syrian Arab Republic,2012-01-01,26.4
+THA,Thailand,2012-01-01,0.9
+TJK,Tajikistan,2012-01-01,8.4
+TKM,Turkmenistan,2012-01-01,5.3
+TTO,Trinidad and Tobago,2012-01-01,2.5
+TUN,Tunisia,2012-01-01,4.2
+TUR,Turkey,2012-01-01,7.2
+TWN,"Taiwan, China",2012-01-01,0.6
+UGA,Uganda,2012-01-01,14.7
+UKR,Ukraine,2012-01-01,3.3
+URY,Uruguay,2012-01-01,-0.5
+USA,United States,2012-01-01,2.1
+VEN,"Venezuela, RB",2012-01-01,22.2
+VNM,Vietnam,2012-01-01,8.2
+XKX,Kosovo,2012-01-01,0.2
+ZAF,South Africa,2012-01-01,4.6
+AFG,Afghanistan,2013-01-01,6.8
+ALB,Albania,2013-01-01,0.2
+AUS,Australia,2013-01-01,2.4
+AUT,Austria,2013-01-01,2.1
+ARM,Armenia,2013-01-01,5.8
+AZE,Azerbaijan,2013-01-01,0.4
+BEL,Belgium,2013-01-01,1.4
+BGR,Bulgaria,2013-01-01,1.8
+BLR,Belarus,2013-01-01,13.7
+BRA,Brazil,2013-01-01,5.8
+CAN,Canada,2013-01-01,0.8
+CHE,Switzerland,2013-01-01,-0.8
+CHL,Chile,2013-01-01,1.5
+CHN,China,2013-01-01,1.7
+CMR,Cameroon,2013-01-01,1.6
+COL,Colombia,2013-01-01,2.5
+CRI,Costa Rica,2013-01-01,5.3
+CYP,Cyprus,2013-01-01,0.4
+CZE,Czech Republic,2013-01-01,0.1
+DEU,Germany,2013-01-01,1.3
+DNK,Denmark,2013-01-01,1.2
+DOM,Dominican Republic,2013-01-01,4.9
+EGY,"Egypt, Arab Rep.",2013-01-01,9.0
+ESP,Spain,2013-01-01,1.1
+EST,Estonia,2013-01-01,1.4
+FIN,Finland,2013-01-01,1.0
+FRA,France,2013-01-01,0.9
+GBR,United Kingdom,2013-01-01,1.9
+GRC,Greece,2013-01-01,-2.0
+GTM,Guatemala,2013-01-01,3.8
+HKG,"Hong Kong SAR, China",2013-01-01,4.3
+HND,Honduras,2013-01-01,5.7
+HRV,Croatia,2013-01-01,1.0
+HUN,Hungary,2013-01-01,3.3
+IDN,Indonesia,2013-01-01,4.2
+IND,India,2013-01-01,7.6
+IRL,Ireland,2013-01-01,0.7
+IRN,"Iran, Islamic Rep.",2013-01-01,33.3
+IRQ,Iraq,2013-01-01,2.4
+ISL,Iceland,2013-01-01,4.1
+ISR,Israel,2013-01-01,0.9
+ITA,Italy,2013-01-01,1.1
+JOR,Jordan,2013-01-01,4.2
+JPN,Japan,2013-01-01,-0.1
+KAZ,Kazakhstan,2013-01-01,4.3
+KGZ,Kyrgyz Republic,2013-01-01,0.3
+KOR,"Korea, Rep.",2013-01-01,1.6
+LAO,"Lao, PDR",2013-01-01,3.8
+LKA,Sri Lanka,2013-01-01,7.9
+LTU,Lithuania,2013-01-01,1.3
+LUX,Luxembourg,2013-01-01,2.1
+LVA,Latvia,2013-01-01,0.2
+MAC,"Macao SAR, China",2013-01-01,14.2
+MAR,Morocco,2013-01-01,1.5
+MEX,Mexico,2013-01-01,2.7
+MKD,North Macedonia,2013-01-01,3.1
+MLT,Malta,2013-01-01,0.7
+MNE,Montenegro,2013-01-01,-1.4
+MUS,Mauritius,2013-01-01,2.6
+MYS,Malaysia,2013-01-01,1.4
+NGA,Nigeria,2013-01-01,6.8
+NIC,Nicaragua,2013-01-01,6.2
+NLD,Netherlands,2013-01-01,2.7
+NOR,Norway,2013-01-01,1.7
+NZL,New Zealand,2013-01-01,1.2
+OMN,Oman,2013-01-01,0.7
+PER,Peru,2013-01-01,3.5
+PHL,Philippines,2013-01-01,2.9
+POL,Poland,2013-01-01,1.2
+PRT,Portugal,2013-01-01,0.2
+PRY,Paraguay,2013-01-01,3.8
+ROU,Romania,2013-01-01,2.6
+RUS,Russian Federation,2013-01-01,5.6
+SAU,Saudi Arabia,2013-01-01,2.0
+SDN,Sudan,2013-01-01,48.7
+SGP,Singapore,2013-01-01,1.7
+SLV,El Salvador,2013-01-01,0.7
+SRB,Serbia,2013-01-01,3.5
+SVK,Slovakia,2013-01-01,0.8
+SVN,Slovenia,2013-01-01,1.7
+SWE,Sweden,2013-01-01,-0.2
+SYR,Syrian Arab Republic,2013-01-01,50.2
+THA,Thailand,2013-01-01,0.8
+TJK,Tajikistan,2013-01-01,5.3
+TKM,Turkmenistan,2013-01-01,8.9
+TTO,Trinidad and Tobago,2013-01-01,2.4
+TUN,Tunisia,2013-01-01,4.6
+TUR,Turkey,2013-01-01,6.3
+TWN,"Taiwan, China",2013-01-01,0.4
+UGA,Uganda,2013-01-01,6.3
+UKR,Ukraine,2013-01-01,0.2
+URY,Uruguay,2013-01-01,-2.6
+USA,United States,2013-01-01,1.8
+VEN,"Venezuela, RB",2013-01-01,43.0
+VNM,Vietnam,2013-01-01,4.8
+XKX,Kosovo,2013-01-01,-0.4
+ZAF,South Africa,2013-01-01,5.2
+AFG,Afghanistan,2014-01-01,2.7
+ALB,Albania,2014-01-01,0.1
+AUS,Australia,2014-01-01,2.6
+AUT,Austria,2014-01-01,2.0
+ARM,Armenia,2014-01-01,1.9
+AZE,Azerbaijan,2014-01-01,0.2
+BEL,Belgium,2014-01-01,1.6
+BGR,Bulgaria,2014-01-01,1.6
+BLR,Belarus,2014-01-01,14.3
+BRA,Brazil,2014-01-01,6.5
+CAN,Canada,2014-01-01,1.6
+CHE,Switzerland,2014-01-01,0.0
+CHL,Chile,2014-01-01,3.6
+CHN,China,2014-01-01,1.6
+CMR,Cameroon,2014-01-01,1.7
+COL,Colombia,2014-01-01,2.8
+CRI,Costa Rica,2014-01-01,4.3
+CYP,Cyprus,2014-01-01,0.2
+CZE,Czech Republic,2014-01-01,0.8
+DEU,Germany,2014-01-01,1.4
+DNK,Denmark,2014-01-01,0.9
+DOM,Dominican Republic,2014-01-01,3.2
+EGY,"Egypt, Arab Rep.",2014-01-01,9.2
+ESP,Spain,2014-01-01,0.0
+EST,Estonia,2014-01-01,1.0
+FIN,Finland,2014-01-01,1.5
+FRA,France,2014-01-01,1.0
+GBR,United Kingdom,2014-01-01,1.6
+GHA,Ghana,2014-01-01,14.8
+GRC,Greece,2014-01-01,-1.2
+GTM,Guatemala,2014-01-01,3.2
+HKG,"Hong Kong SAR, China",2014-01-01,4.2
+HND,Honduras,2014-01-01,5.9
+HRV,Croatia,2014-01-01,0.4
+HUN,Hungary,2014-01-01,2.2
+IDN,Indonesia,2014-01-01,4.5
+IND,India,2014-01-01,6.4
+IRL,Ireland,2014-01-01,0.9
+IRN,"Iran, Islamic Rep.",2014-01-01,17.7
+IRQ,Iraq,2014-01-01,1.6
+ISL,Iceland,2014-01-01,2.7
+ISR,Israel,2014-01-01,0.8
+ITA,Italy,2014-01-01,0.8
+JOR,Jordan,2014-01-01,4.2
+JPN,Japan,2014-01-01,2.0
+KAZ,Kazakhstan,2014-01-01,6.7
+KGZ,Kyrgyz Republic,2014-01-01,2.0
+KOR,"Korea, Rep.",2014-01-01,2.0
+LAO,"Lao, PDR",2014-01-01,2.8
+LKA,Sri Lanka,2014-01-01,2.1
+LTU,Lithuania,2014-01-01,1.0
+LUX,Luxembourg,2014-01-01,1.3
+LVA,Latvia,2014-01-01,1.8
+MAC,"Macao SAR, China",2014-01-01,11.0
+MAR,Morocco,2014-01-01,1.2
+MEX,Mexico,2014-01-01,3.2
+MKD,North Macedonia,2014-01-01,0.6
+MLT,Malta,2014-01-01,1.7
+MNE,Montenegro,2014-01-01,-1.5
+MUS,Mauritius,2014-01-01,3.1
+MYS,Malaysia,2014-01-01,2.2
+NGA,Nigeria,2014-01-01,7.2
+NIC,Nicaragua,2014-01-01,5.0
+NLD,Netherlands,2014-01-01,1.4
+NOR,Norway,2014-01-01,2.5
+NZL,New Zealand,2014-01-01,1.5
+OMN,Oman,2014-01-01,1.2
+PER,Peru,2014-01-01,3.5
+PHL,Philippines,2014-01-01,3.0
+PNG,Papua New Guinea,2014-01-01,5.9
+POL,Poland,2014-01-01,0.6
+PRT,Portugal,2014-01-01,0.1
+PRY,Paraguay,2014-01-01,4.7
+ROU,Romania,2014-01-01,1.0
+RUS,Russian Federation,2014-01-01,7.6
+SAU,Saudi Arabia,2014-01-01,1.2
+SDN,Sudan,2014-01-01,47.6
+SGP,Singapore,2014-01-01,1.9
+SLV,El Salvador,2014-01-01,0.5
+SRB,Serbia,2014-01-01,1.5
+SVK,Slovakia,2014-01-01,0.3
+SVN,Slovenia,2014-01-01,0.5
+SWE,Sweden,2014-01-01,0.0
+SYR,Syrian Arab Republic,2014-01-01,31.1
+THA,Thailand,2014-01-01,0.6
+TJK,Tajikistan,2014-01-01,4.6
+TKM,Turkmenistan,2014-01-01,5.0
+TTO,Trinidad and Tobago,2014-01-01,2.0
+TUN,Tunisia,2014-01-01,4.3
+TUR,Turkey,2014-01-01,9.2
+TWN,"Taiwan, China",2014-01-01,0.4
+UGA,Uganda,2014-01-01,3.1
+UKR,Ukraine,2014-01-01,9.9
+URY,Uruguay,2014-01-01,-4.3
+USA,United States,2014-01-01,1.7
+VEN,"Venezuela, RB",2014-01-01,38.2
+VNM,Vietnam,2014-01-01,3.3
+XKX,Kosovo,2014-01-01,-0.4
+ZAF,South Africa,2014-01-01,5.6
+AFG,Afghanistan,2015-01-01,0.2
+ALB,Albania,2015-01-01,-0.2
+AUS,Australia,2015-01-01,2.5
+AUT,Austria,2015-01-01,1.8
+ARM,Armenia,2015-01-01,5.1
+AZE,Azerbaijan,2015-01-01,4.0
+BEL,Belgium,2015-01-01,1.4
+BGR,Bulgaria,2015-01-01,1.6
+BLR,Belarus,2015-01-01,12.2
+BRA,Brazil,2015-01-01,8.6
+CAN,Canada,2015-01-01,2.6
+CHE,Switzerland,2015-01-01,-0.3
+CHL,Chile,2015-01-01,4.7
+CHN,China,2015-01-01,1.6
+CMR,Cameroon,2015-01-01,2.5
+COL,Colombia,2015-01-01,4.2
+CRI,Costa Rica,2015-01-01,1.8
+CYP,Cyprus,2015-01-01,-0.3
+CZE,Czech Republic,2015-01-01,0.2
+DEU,Germany,2015-01-01,1.7
+DJI,Djibouti,2015-01-01,2.0
+DNK,Denmark,2015-01-01,-19.1
+DOM,Dominican Republic,2015-01-01,2.2
+EGY,"Egypt, Arab Rep.",2015-01-01,6.9
+ESP,Spain,2015-01-01,0.5
+EST,Estonia,2015-01-01,1.4
+FIN,Finland,2015-01-01,0.6
+FRA,France,2015-01-01,0.6
+GBR,United Kingdom,2015-01-01,1.3
+GHA,Ghana,2015-01-01,23.8
+GRC,Greece,2015-01-01,-1.0
+GTM,Guatemala,2015-01-01,3.2
+HKG,"Hong Kong SAR, China",2015-01-01,2.6
+HND,Honduras,2015-01-01,4.8
+HRV,Croatia,2015-01-01,0.7
+HUN,Hungary,2015-01-01,1.2
+IDN,Indonesia,2015-01-01,4.9
+IND,India,2015-01-01,5.2
+IRL,Ireland,2015-01-01,-12.6
+IRN,"Iran, Islamic Rep.",2015-01-01,12.2
+IRQ,Iraq,2015-01-01,1.7
+ISL,Iceland,2015-01-01,2.1
+ISR,Israel,2015-01-01,0.5
+ITA,Italy,2015-01-01,0.7
+JOR,Jordan,2015-01-01,-0.7
+JPN,Japan,2015-01-01,1.0
+KAZ,Kazakhstan,2015-01-01,7.7
+KGZ,Kyrgyz Republic,2015-01-01,5.7
+KOR,"Korea, Rep.",2015-01-01,2.2
+LAO,"Lao, PDR",2015-01-01,1.9
+LKA,Sri Lanka,2015-01-01,0.8
+LTU,Lithuania,2015-01-01,1.2
+LUX,Luxembourg,2015-01-01,1.6
+LVA,Latvia,2015-01-01,1.8
+MAC,"Macao SAR, China",2015-01-01,-5.9
+MAR,Morocco,2015-01-01,1.4
+MEX,Mexico,2015-01-01,2.4
+MKD,North Macedonia,2015-01-01,0.6
+MLT,Malta,2015-01-01,1.6
+MNE,Montenegro,2015-01-01,-1.3
+MUS,Mauritius,2015-01-01,1.7
+MYS,Malaysia,2015-01-01,3.3
+NGA,Nigeria,2015-01-01,8.2
+NIC,Nicaragua,2015-01-01,6.4
+NLD,Netherlands,2015-01-01,1.3
+NOR,Norway,2015-01-01,2.6
+NZL,New Zealand,2015-01-01,1.3
+OMN,Oman,2015-01-01,0.5
+PER,Peru,2015-01-01,3.8
+PHL,Philippines,2015-01-01,2.1
+PNG,Papua New Guinea,2015-01-01,3.0
+POL,Poland,2015-01-01,0.3
+PRT,Portugal,2015-01-01,-24.8
+PRY,Paraguay,2015-01-01,3.7
+ROU,Romania,2015-01-01,-0.8
+RUS,Russian Federation,2015-01-01,16.3
+SAU,Saudi Arabia,2015-01-01,0.9
+SDN,Sudan,2015-01-01,20.5
+SGP,Singapore,2015-01-01,0.5
+SLV,El Salvador,2015-01-01,0.2
+SRB,Serbia,2015-01-01,2.6
+SVK,Slovakia,2015-01-01,0.2
+SVN,Slovenia,2015-01-01,0.5
+SWE,Sweden,2015-01-01,0.0
+THA,Thailand,2015-01-01,0.9
+TJK,Tajikistan,2015-01-01,3.9
+TKM,Turkmenistan,2015-01-01,7.4
+TTO,Trinidad and Tobago,2015-01-01,1.8
+TUN,Tunisia,2015-01-01,4.7
+TUR,Turkey,2015-01-01,8.0
+TWN,"Taiwan, China",2015-01-01,0.4
+UGA,Uganda,2015-01-01,4.2
+UKR,Ukraine,2015-01-01,40.4
+URY,Uruguay,2015-01-01,-12.8
+USA,United States,2015-01-01,1.8
+VEN,"Venezuela, RB",2015-01-01,147.5
+VNM,Vietnam,2015-01-01,2.1
+XKX,Kosovo,2015-01-01,-0.7
+ZAF,South Africa,2015-01-01,5.5
+AFG,Afghanistan,2016-01-01,5.2
+ALB,Albania,2016-01-01,0.2
+AUS,Australia,2016-01-01,1.8
+AUT,Austria,2016-01-01,1.5
+ARM,Armenia,2016-01-01,-2.0
+AZE,Azerbaijan,2016-01-01,4.1
+BEL,Belgium,2016-01-01,2.0
+BGR,Bulgaria,2016-01-01,2.0
+BLR,Belarus,2016-01-01,10.9
+BRA,Brazil,2016-01-01,7.6
+CAN,Canada,2016-01-01,2.0
+CHE,Switzerland,2016-01-01,-0.3
+CHL,Chile,2016-01-01,4.0
+CHN,China,2016-01-01,1.6
+CMR,Cameroon,2016-01-01,0.6
+COL,Colombia,2016-01-01,6.6
+CRI,Costa Rica,2016-01-01,0.1
+CYP,Cyprus,2016-01-01,-0.7
+CZE,Czech Republic,2016-01-01,0.5
+DEU,Germany,2016-01-01,1.2
+DJI,Djibouti,2016-01-01,-2.6
+DNK,Denmark,2016-01-01,2.1
+DOM,Dominican Republic,2016-01-01,1.7
+EGY,"Egypt, Arab Rep.",2016-01-01,13.4
+ESP,Spain,2016-01-01,0.8
+EST,Estonia,2016-01-01,1.3
+FIN,Finland,2016-01-01,1.0
+FRA,France,2016-01-01,0.4
+GBR,United Kingdom,2016-01-01,1.6
+GHA,Ghana,2016-01-01,22.2
+GRC,Greece,2016-01-01,-1.1
+GTM,Guatemala,2016-01-01,3.1
+HKG,"Hong Kong SAR, China",2016-01-01,2.1
+HND,Honduras,2016-01-01,3.6
+HRV,Croatia,2016-01-01,0.1
+HUN,Hungary,2016-01-01,1.4
+IDN,Indonesia,2016-01-01,3.4
+IND,India,2016-01-01,5.0
+IRL,Ireland,2016-01-01,1.0
+IRN,"Iran, Islamic Rep.",2016-01-01,7.1
+IRQ,Iraq,2016-01-01,-0.2
+ISL,Iceland,2016-01-01,2.2
+ISR,Israel,2016-01-01,0.0
+ITA,Italy,2016-01-01,-28.6
+JOR,Jordan,2016-01-01,0.6
+JPN,Japan,2016-01-01,0.4
+KAZ,Kazakhstan,2016-01-01,15.4
+KGZ,Kyrgyz Republic,2016-01-01,3.5
+KOR,"Korea, Rep.",2016-01-01,1.6
+LAO,"Lao, PDR",2016-01-01,1.1
+LKA,Sri Lanka,2016-01-01,1.8
+LTU,Lithuania,2016-01-01,2.2
+LUX,Luxembourg,2016-01-01,1.0
+LVA,Latvia,2016-01-01,1.6
+MAC,"Macao SAR, China",2016-01-01,-15.7
+MAR,Morocco,2016-01-01,0.8
+MEX,Mexico,2016-01-01,3.0
+MKD,North Macedonia,2016-01-01,1.4
+MLT,Malta,2016-01-01,1.2
+MNE,Montenegro,2016-01-01,-0.9
+MUS,Mauritius,2016-01-01,2.2
+MYS,Malaysia,2016-01-01,2.7
+NGA,Nigeria,2016-01-01,12.6
+NIC,Nicaragua,2016-01-01,4.4
+NLD,Netherlands,2016-01-01,0.8
+NOR,Norway,2016-01-01,3.3
+NZL,New Zealand,2016-01-01,1.4
+OMN,Oman,2016-01-01,0.5
+PER,Peru,2016-01-01,4.0
+PHL,Philippines,2016-01-01,1.9
+PNG,Papua New Guinea,2016-01-01,2.1
+POL,Poland,2016-01-01,-0.3
+PRT,Portugal,2016-01-01,0.7
+PRY,Paraguay,2016-01-01,4.7
+QAT,Qatar,2016-01-01,1.8
+ROU,Romania,2016-01-01,-0.8
+RUS,Russian Federation,2016-01-01,7.5
+SAU,Saudi Arabia,2016-01-01,2.1
+SDN,Sudan,2016-01-01,22.7
+SGP,Singapore,2016-01-01,0.9
+SLV,El Salvador,2016-01-01,0.0
+SRB,Serbia,2016-01-01,1.5
+SVK,Slovakia,2016-01-01,0.2
+SVN,Slovenia,2016-01-01,0.6
+SWE,Sweden,2016-01-01,0.9
+THA,Thailand,2016-01-01,0.7
+TJK,Tajikistan,2016-01-01,7.1
+TTO,Trinidad and Tobago,2016-01-01,2.1
+TUN,Tunisia,2016-01-01,4.4
+TUR,Turkey,2016-01-01,8.5
+TWN,"Taiwan, China",2016-01-01,0.6
+UGA,Uganda,2016-01-01,5.6
+UKR,Ukraine,2016-01-01,11.0
+URY,Uruguay,2016-01-01,-11.0
+USA,United States,2016-01-01,2.2
+VEN,"Venezuela, RB",2016-01-01,385.9
+VNM,Vietnam,2016-01-01,1.8
+XKX,Kosovo,2016-01-01,-2.6
+ZAF,South Africa,2016-01-01,5.6
+AFG,Afghanistan,2017-01-01,5.4
+ALB,Albania,2017-01-01,0.8
+AUS,Australia,2017-01-01,1.6
+AUT,Austria,2017-01-01,2.0
+ARM,Armenia,2017-01-01,0.7
+AZE,Azerbaijan,2017-01-01,-0.1
+BEL,Belgium,2017-01-01,1.5
+BGR,Bulgaria,2017-01-01,1.6
+BLR,Belarus,2017-01-01,5.4
+BRA,Brazil,2017-01-01,4.5
+CAN,Canada,2017-01-01,1.8
+CHE,Switzerland,2017-01-01,0.3
+CHL,Chile,2017-01-01,2.0
+CHN,China,2017-01-01,2.2
+CMR,Cameroon,2017-01-01,0.8
+COL,Colombia,2017-01-01,5.1
+CRI,Costa Rica,2017-01-01,1.2
+CYP,Cyprus,2017-01-01,0.0
+CZE,Czech Republic,2017-01-01,2.6
+DEU,Germany,2017-01-01,1.2
+DJI,Djibouti,2017-01-01,0.2
+DNK,Denmark,2017-01-01,14.5
+DOM,Dominican Republic,2017-01-01,2.2
+EGY,"Egypt, Arab Rep.",2017-01-01,30.6
+ESP,Spain,2017-01-01,1.1
+EST,Estonia,2017-01-01,2.1
+FIN,Finland,2017-01-01,0.7
+FRA,France,2017-01-01,8.9
+GBR,United Kingdom,2017-01-01,2.3
+GHA,Ghana,2017-01-01,16.5
+GRC,Greece,2017-01-01,0.5
+GTM,Guatemala,2017-01-01,3.0
+HKG,"Hong Kong SAR, China",2017-01-01,1.3
+HND,Honduras,2017-01-01,4.0
+HRV,Croatia,2017-01-01,0.7
+HUN,Hungary,2017-01-01,2.3
+IDN,Indonesia,2017-01-01,3.1
+IND,India,2017-01-01,4.4
+IRL,Ireland,2017-01-01,0.3
+IRN,"Iran, Islamic Rep.",2017-01-01,6.0
+IRQ,Iraq,2017-01-01,0.4
+ISL,Iceland,2017-01-01,2.4
+ISR,Israel,2017-01-01,0.0
+ITA,Italy,2017-01-01,0.7
+JOR,Jordan,2017-01-01,4.7
+JPN,Japan,2017-01-01,-0.1
+KAZ,Kazakhstan,2017-01-01,7.0
+KGZ,Kyrgyz Republic,2017-01-01,4.0
+KOR,"Korea, Rep.",2017-01-01,1.5
+LAO,"Lao, PDR",2017-01-01,1.0
+LKA,Sri Lanka,2017-01-01,3.1
+LTU,Lithuania,2017-01-01,3.9
+LUX,Luxembourg,2017-01-01,1.4
+LVA,Latvia,2017-01-01,1.6
+MAC,"Macao SAR, China",2017-01-01,6.3
+MAR,Morocco,2017-01-01,1.3
+MEX,Mexico,2017-01-01,4.7
+MKD,North Macedonia,2017-01-01,2.3
+MLT,Malta,2017-01-01,1.0
+MUS,Mauritius,2017-01-01,2.2
+MYS,Malaysia,2017-01-01,1.8
+NGA,Nigeria,2017-01-01,13.0
+NIC,Nicaragua,2017-01-01,4.2
+NLD,Netherlands,2017-01-01,1.0
+NOR,Norway,2017-01-01,1.7
+NZL,New Zealand,2017-01-01,1.4
+OMN,Oman,2017-01-01,1.1
+PER,Peru,2017-01-01,3.0
+PHL,Philippines,2017-01-01,2.9
+PNG,Papua New Guinea,2017-01-01,3.0
+POL,Poland,2017-01-01,0.8
+PRT,Portugal,2017-01-01,1.1
+PRY,Paraguay,2017-01-01,4.7
+QAT,Qatar,2017-01-01,1.5
+ROU,Romania,2017-01-01,1.6
+RUS,Russian Federation,2017-01-01,3.5
+SAU,Saudi Arabia,2017-01-01,-1.2
+SDN,Sudan,2017-01-01,31.0
+SGP,Singapore,2017-01-01,1.5
+SLV,El Salvador,2017-01-01,0.1
+SRB,Serbia,2017-01-01,2.0
+SVK,Slovakia,2017-01-01,1.5
+SVN,Slovenia,2017-01-01,1.1
+SWE,Sweden,2017-01-01,1.4
+THA,Thailand,2017-01-01,0.3
+TJK,Tajikistan,2017-01-01,3.3
+TTO,Trinidad and Tobago,2017-01-01,1.7
+TUN,Tunisia,2017-01-01,5.4
+TUR,Turkey,2017-01-01,10.1
+TWN,"Taiwan, China",2017-01-01,0.7
+UGA,Uganda,2017-01-01,4.4
+UKR,Ukraine,2017-01-01,7.3
+USA,United States,2017-01-01,1.8
+VNM,Vietnam,2017-01-01,1.4
+ZAF,South Africa,2017-01-01,4.7
+AFG,Afghanistan,2018-01-01,-0.1
+ALB,Albania,2018-01-01,0.9
+AUS,Australia,2018-01-01,1.3
+AUT,Austria,2018-01-01,1.8
+ARM,Armenia,2018-01-01,3.7
+AZE,Azerbaijan,2018-01-01,-0.1
+BEL,Belgium,2018-01-01,1.3
+BGR,Bulgaria,2018-01-01,1.6
+BLR,Belarus,2018-01-01,3.6
+BRA,Brazil,2018-01-01,3.3
+CAN,Canada,2018-01-01,2.0
+CHE,Switzerland,2018-01-01,0.4
+CHL,Chile,2018-01-01,1.7
+CHN,China,2018-01-01,1.8
+CMR,Cameroon,2018-01-01,1.0
+COL,Colombia,2018-01-01,3.3
+CRI,Costa Rica,2018-01-01,2.1
+CYP,Cyprus,2018-01-01,0.1
+CZE,Czech Republic,2018-01-01,1.9
+DEU,Germany,2018-01-01,1.3
+DJI,Djibouti,2018-01-01,-0.3
+DNK,Denmark,2018-01-01,0.6
+DOM,Dominican Republic,2018-01-01,2.6
+EGY,"Egypt, Arab Rep.",2018-01-01,10.1
+ESP,Spain,2018-01-01,0.9
+EST,Estonia,2018-01-01,2.3
+FIN,Finland,2018-01-01,0.7
+FRA,France,2018-01-01,1.0
+GBR,United Kingdom,2018-01-01,1.9
+GHA,Ghana,2018-01-01,12.3
+GRC,Greece,2018-01-01,22.3
+GTM,Guatemala,2018-01-01,2.7
+HKG,"Hong Kong SAR, China",2018-01-01,1.9
+HND,Honduras,2018-01-01,3.8
+HRV,Croatia,2018-01-01,0.9
+HUN,Hungary,2018-01-01,2.5
+IDN,Indonesia,2018-01-01,2.8
+IND,India,2018-01-01,5.7
+IRL,Ireland,2018-01-01,0.1
+IRN,"Iran, Islamic Rep.",2018-01-01,17.2
+IRQ,Iraq,2018-01-01,0.1
+ISL,Iceland,2018-01-01,2.5
+ISR,Israel,2018-01-01,0.7
+ITA,Italy,2018-01-01,0.6
+JOR,Jordan,2018-01-01,4.6
+JPN,Japan,2018-01-01,0.2
+KAZ,Kazakhstan,2018-01-01,6.2
+KGZ,Kyrgyz Republic,2018-01-01,1.7
+KOR,"Korea, Rep.",2018-01-01,1.2
+KWT,Kuwait,2018-01-01,0.6
+LAO,"Lao, PDR",2018-01-01,2.2
+LKA,Sri Lanka,2018-01-01,3.4
+LTU,Lithuania,2018-01-01,2.2
+LUX,Luxembourg,2018-01-01,0.9
+LVA,Latvia,2018-01-01,2.3
+MAR,Morocco,2018-01-01,1.8
+MEX,Mexico,2018-01-01,3.8
+MKD,North Macedonia,2018-01-01,1.5
+MLT,Malta,2018-01-01,1.8
+MUS,Mauritius,2018-01-01,1.8
+MYS,Malaysia,2018-01-01,0.6
+NGA,Nigeria,2018-01-01,11.2
+NIC,Nicaragua,2018-01-01,4.1
+NLD,Netherlands,2018-01-01,1.3
+NOR,Norway,2018-01-01,1.2
+NZL,New Zealand,2018-01-01,1.2
+OMN,Oman,2018-01-01,0.9
+PER,Peru,2018-01-01,2.3
+PHL,Philippines,2018-01-01,3.9
+PNG,Papua New Guinea,2018-01-01,5.9
+POL,Poland,2018-01-01,0.7
+PRT,Portugal,2018-01-01,0.7
+PRY,Paraguay,2018-01-01,3.2
+QAT,Qatar,2018-01-01,1.2
+ROU,Romania,2018-01-01,3.1
+RUS,Russian Federation,2018-01-01,2.5
+SAU,Saudi Arabia,2018-01-01,3.1
+SDN,Sudan,2018-01-01,58.9
+SGP,Singapore,2018-01-01,1.7
+SLV,El Salvador,2018-01-01,0.2
+SRB,Serbia,2018-01-01,1.3
+SVK,Slovakia,2018-01-01,2.5
+SVN,Slovenia,2018-01-01,1.2
+SWE,Sweden,2018-01-01,1.1
+THA,Thailand,2018-01-01,0.5
+TJK,Tajikistan,2018-01-01,4.2
+TTO,Trinidad and Tobago,2018-01-01,1.0
+TUN,Tunisia,2018-01-01,7.5
+TUR,Turkey,2018-01-01,16.5
+TWN,"Taiwan, China",2018-01-01,1.0
+UGA,Uganda,2018-01-01,2.4
+UKR,Ukraine,2018-01-01,9.1
+USA,United States,2018-01-01,2.1
+VNM,Vietnam,2018-01-01,1.5
+ZAF,South Africa,2018-01-01,4.3
+ALB,Albania,2019-01-01,0.7
+AUS,Australia,2019-01-01,0.7
+AUT,Austria,2019-01-01,1.7
+ARM,Armenia,2019-01-01,1.2
+AZE,Azerbaijan,2019-01-01,-1.8
+BEL,Belgium,2019-01-01,3.8
+BGR,Bulgaria,2019-01-01,1.5
+BLR,Belarus,2019-01-01,4.6
+BRA,Brazil,2019-01-01,3.5
+CAN,Canada,2019-01-01,2.3
+CHE,Switzerland,2019-01-01,0.5
+CHL,Chile,2019-01-01,2.2
+CHN,China,2019-01-01,1.7
+CMR,Cameroon,2019-01-01,2.2
+COL,Colombia,2019-01-01,3.4
+CRI,Costa Rica,2019-01-01,2.4
+CYP,Cyprus,2019-01-01,0.6
+CZE,Czech Republic,2019-01-01,2.2
+DEU,Germany,2019-01-01,1.5
+DJI,Djibouti,2019-01-01,0.1
+DNK,Denmark,2019-01-01,0.8
+DOM,Dominican Republic,2019-01-01,2.1
+EGY,"Egypt, Arab Rep.",2019-01-01,5.7
+ESP,Spain,2019-01-01,1.0
+EST,Estonia,2019-01-01,2.1
+FIN,Finland,2019-01-01,0.8
+FRA,France,2019-01-01,0.7
+GBR,United Kingdom,2019-01-01,1.7
+GRC,Greece,2019-01-01,-2.4
+GTM,Guatemala,2019-01-01,3.0
+HKG,"Hong Kong SAR, China",2019-01-01,2.3
+HND,Honduras,2019-01-01,4.0
+HRV,Croatia,2019-01-01,0.9
+HUN,Hungary,2019-01-01,3.8
+IDN,Indonesia,2019-01-01,3.0
+IND,India,2019-01-01,4.7
+IRL,Ireland,2019-01-01,1.1
+IRN,"Iran, Islamic Rep.",2019-01-01,33.8
+IRQ,Iraq,2019-01-01,-0.1
+ISL,Iceland,2019-01-01,2.9
+ISR,Israel,2019-01-01,0.9
+ITA,Italy,2019-01-01,0.6
+JOR,Jordan,2019-01-01,1.0
+JPN,Japan,2019-01-01,0.5
+KAZ,Kazakhstan,2019-01-01,7.4
+KGZ,Kyrgyz Republic,2019-01-01,3.7
+KOR,"Korea, Rep.",2019-01-01,0.9
+KWT,Kuwait,2019-01-01,1.1
+LAO,"Lao, PDR",2019-01-01,2.1
+LKA,Sri Lanka,2019-01-01,3.7
+LTU,Lithuania,2019-01-01,2.4
+LUX,Luxembourg,2019-01-01,1.8
+LVA,Latvia,2019-01-01,2.8
+MAR,Morocco,2019-01-01,0.6
+MEX,Mexico,2019-01-01,3.7
+MKD,North Macedonia,2019-01-01,0.5
+MLT,Malta,2019-01-01,1.4
+MUS,Mauritius,2019-01-01,1.8
+MYS,Malaysia,2019-01-01,1.1
+NGA,Nigeria,2019-01-01,9.8
+NIC,Nicaragua,2019-01-01,5.8
+NLD,Netherlands,2019-01-01,2.0
+NOR,Norway,2019-01-01,2.6
+NZL,New Zealand,2019-01-01,1.8
+OMN,Oman,2019-01-01,0.1
+PER,Peru,2019-01-01,2.4
+PHL,Philippines,2019-01-01,3.0
+PNG,Papua New Guinea,2019-01-01,2.3
+POL,Poland,2019-01-01,1.9
+PRT,Portugal,2019-01-01,0.5
+PRY,Paraguay,2019-01-01,2.6
+QAT,Qatar,2019-01-01,-0.4
+ROU,Romania,2019-01-01,3.6
+RUS,Russian Federation,2019-01-01,4.2
+SAU,Saudi Arabia,2019-01-01,-0.4
+SDN,Sudan,2019-01-01,51.0
+SGP,Singapore,2019-01-01,1.0
+SLV,El Salvador,2019-01-01,0.1
+SRB,Serbia,2019-01-01,1.3
+SVK,Slovakia,2019-01-01,1.9
+SVN,Slovenia,2019-01-01,1.7
+SWE,Sweden,2019-01-01,1.5
+TCD,Chad,2019-01-01,-2.1
+THA,Thailand,2019-01-01,0.4
+TJK,Tajikistan,2019-01-01,3.9
+TTO,Trinidad and Tobago,2019-01-01,1.1
+TUN,Tunisia,2019-01-01,6.9
+TUR,Turkey,2019-01-01,13.4
+TWN,"Taiwan, China",2019-01-01,0.3
+UGA,Uganda,2019-01-01,3.6
+UKR,Ukraine,2019-01-01,6.8
+USA,United States,2019-01-01,2.2
+VNM,Vietnam,2019-01-01,2.0
+ZAF,South Africa,2019-01-01,4.1
+ALB,Albania,2020-01-01,1.4
+AUS,Australia,2020-01-01,0.0
+AUT,Austria,2020-01-01,1.9
+ARM,Armenia,2020-01-01,1.3
+BEL,Belgium,2020-01-01,1.5
+BGR,Bulgaria,2020-01-01,1.5
+BLR,Belarus,2020-01-01,4.6
+BRA,Brazil,2020-01-01,2.2
+CAN,Canada,2020-01-01,1.3
+CHE,Switzerland,2020-01-01,-0.2
+CHL,Chile,2020-01-01,2.3
+CHN,China,2020-01-01,0.7
+CMR,Cameroon,2020-01-01,2.0
+COL,Colombia,2020-01-01,2.2
+CRI,Costa Rica,2020-01-01,1.3
+CYP,Cyprus,2020-01-01,-0.6
+CZE,Czech Republic,2020-01-01,3.6
+DEU,Germany,2020-01-01,1.0
+DJI,Djibouti,2020-01-01,1.8
+DNK,Denmark,2020-01-01,0.9
+DOM,Dominican Republic,2020-01-01,3.6
+EGY,"Egypt, Arab Rep.",2020-01-01,2.3
+ESP,Spain,2020-01-01,0.6
+EST,Estonia,2020-01-01,0.1
+FIN,Finland,2020-01-01,0.5
+FRA,France,2020-01-01,1.0
+GBR,United Kingdom,2020-01-01,1.5
+GRC,Greece,2020-01-01,-0.7
+GTM,Guatemala,2020-01-01,2.4
+HKG,"Hong Kong SAR, China",2020-01-01,-0.2
+HND,Honduras,2020-01-01,4.0
+HRV,Croatia,2020-01-01,1.0
+HUN,Hungary,2020-01-01,3.0
+IDN,Indonesia,2020-01-01,2.3
+IND,India,2020-01-01,4.6
+IRL,Ireland,2020-01-01,0.3
+IRN,"Iran, Islamic Rep.",2020-01-01,33.1
+IRQ,Iraq,2020-01-01,1.0
+ISL,Iceland,2020-01-01,2.9
+ISR,Israel,2020-01-01,-0.1
+ITA,Italy,2020-01-01,0.5
+JOR,Jordan,2020-01-01,0.2
+JPN,Japan,2020-01-01,0.1
+KAZ,Kazakhstan,2020-01-01,7.4
+KGZ,Kyrgyz Republic,2020-01-01,5.2
+KOR,"Korea, Rep.",2020-01-01,0.4
+KWT,Kuwait,2020-01-01,1.6
+LAO,"Lao, PDR",2020-01-01,2.3
+LKA,Sri Lanka,2020-01-01,4.1
+LTU,Lithuania,2020-01-01,3.1
+LUX,Luxembourg,2020-01-01,1.3
+LVA,Latvia,2020-01-01,1.2
+MAR,Morocco,2020-01-01,0.5
+MEX,Mexico,2020-01-01,3.2
+MKD,North Macedonia,2020-01-01,0.9
+MLT,Malta,2020-01-01,0.8
+MUS,Mauritius,2020-01-01,3.1
+MYS,Malaysia,2020-01-01,0.9
+NGA,Nigeria,2020-01-01,10.9
+NIC,Nicaragua,2020-01-01,3.6
+NLD,Netherlands,2020-01-01,2.1
+NOR,Norway,2020-01-01,3.1
+NZL,New Zealand,2020-01-01,2.3
+OMN,Oman,2020-01-01,1.0
+PER,Peru,2020-01-01,1.8
+PHL,Philippines,2020-01-01,3.2
+PNG,Papua New Guinea,2020-01-01,2.6
+POL,Poland,2020-01-01,3.9
+PRT,Portugal,2020-01-01,0.0
+PRY,Paraguay,2020-01-01,2.7
+QAT,Qatar,2020-01-01,-2.0
+ROU,Romania,2020-01-01,4.0
+RUS,Russian Federation,2020-01-01,3.0
+SAU,Saudi Arabia,2020-01-01,3.5
+SDN,Sudan,2020-01-01,163.3
+SGP,Singapore,2020-01-01,-0.2
+SLV,El Salvador,2020-01-01,0.3
+SRB,Serbia,2020-01-01,1.6
+SVK,Slovakia,2020-01-01,2.2
+SVN,Slovenia,2020-01-01,0.7
+SWE,Sweden,2020-01-01,1.2
+TCD,Chad,2020-01-01,6.6
+THA,Thailand,2020-01-01,0.1
+TJK,Tajikistan,2020-01-01,4.1
+TTO,Trinidad and Tobago,2020-01-01,0.1
+TUN,Tunisia,2020-01-01,6.7
+TUR,Turkey,2020-01-01,11.2
+TWN,"Taiwan, China",2020-01-01,0.2
+UGA,Uganda,2020-01-01,3.2
+UKR,Ukraine,2020-01-01,3.3
+USA,United States,2020-01-01,1.7
+VNM,Vietnam,2020-01-01,2.3
+ZAF,South Africa,2020-01-01,3.3
+ALB,Albania,2021-01-01,1.7
+AUS,Australia,2021-01-01,1.4
+AUT,Austria,2021-01-01,2.2
+ARM,Armenia,2021-01-01,7.2
+BEL,Belgium,2021-01-01,1.6
+BGR,Bulgaria,2021-01-01,1.4
+BLR,Belarus,2021-01-01,9.3
+BRA,Brazil,2021-01-01,5.1
+CAN,Canada,2021-01-01,2.4
+CHE,Switzerland,2021-01-01,0.4
+CHL,Chile,2021-01-01,3.8
+CHN,China,2021-01-01,0.8
+CMR,Cameroon,2021-01-01,1.5
+COL,Colombia,2021-01-01,2.1
+CRI,Costa Rica,2021-01-01,0.9
+CYP,Cyprus,2021-01-01,1.0
+CZE,Czech Republic,2021-01-01,5.0
+DEU,Germany,2021-01-01,2.1
+DJI,Djibouti,2021-01-01,-0.3
+DNK,Denmark,2021-01-01,1.2
+DOM,Dominican Republic,2021-01-01,5.9
+EGY,"Egypt, Arab Rep.",2021-01-01,4.4
+ESP,Spain,2021-01-01,0.6
+EST,Estonia,2021-01-01,2.8
+FIN,Finland,2021-01-01,1.7
+FRA,France,2021-01-01,1.0
+GBR,United Kingdom,2021-01-01,2.3
+GRC,Greece,2021-01-01,-0.6
+GTM,Guatemala,2021-01-01,3.0
+HKG,"Hong Kong SAR, China",2021-01-01,0.6
+HND,Honduras,2021-01-01,4.6
+HRV,Croatia,2021-01-01,1.6
+HUN,Hungary,2021-01-01,4.5
+IDN,Indonesia,2021-01-01,1.4
+IND,India,2021-01-01,5.9
+IRL,Ireland,2021-01-01,1.8
+IRN,"Iran, Islamic Rep.",2021-01-01,37.2
+IRQ,Iraq,2021-01-01,6.4
+ISL,Iceland,2021-01-01,4.4
+ISR,Israel,2021-01-01,1.2
+ITA,Italy,2021-01-01,0.8
+JOR,Jordan,2021-01-01,1.8
+JPN,Japan,2021-01-01,-0.7
+KAZ,Kazakhstan,2021-01-01,8.0
+KGZ,Kyrgyz Republic,2021-01-01,6.4
+KOR,"Korea, Rep.",2021-01-01,1.4
+KWT,Kuwait,2021-01-01,2.3
+LAO,"Lao, PDR",2021-01-01,3.8
+LKA,Sri Lanka,2021-01-01,5.5
+LTU,Lithuania,2021-01-01,3.5
+LUX,Luxembourg,2021-01-01,1.6
+LVA,Latvia,2021-01-01,1.9
+MAR,Morocco,2021-01-01,1.6
+MEX,Mexico,2021-01-01,3.9
+MKD,North Macedonia,2021-01-01,2.4
+MLT,Malta,2021-01-01,0.6
+MUS,Mauritius,2021-01-01,4.5
+MYS,Malaysia,2021-01-01,0.4
+NGA,Nigeria,2021-01-01,13.7
+NIC,Nicaragua,2021-01-01,4.4
+NLD,Netherlands,2021-01-01,1.9
+NOR,Norway,2021-01-01,1.7
+NZL,New Zealand,2021-01-01,3.7
+OMN,Oman,2021-01-01,3.4
+PER,Peru,2021-01-01,2.4
+PHL,Philippines,2021-01-01,3.6
+PNG,Papua New Guinea,2021-01-01,4.6
+POL,Poland,2021-01-01,4.1
+PRT,Portugal,2021-01-01,0.8
+PRY,Paraguay,2021-01-01,4.6
+QAT,Qatar,2021-01-01,4.2
+ROU,Romania,2021-01-01,4.7
+RUS,Russian Federation,2021-01-01,6.7
+SAU,Saudi Arabia,2021-01-01,4.9
+SDN,Sudan,2021-01-01,359.1
+SEN,Senegal,2021-01-01,2.6
+SGP,Singapore,2021-01-01,0.9
+SLV,El Salvador,2021-01-01,2.1
+SRB,Serbia,2021-01-01,2.9
+SVK,Slovakia,2021-01-01,4.1
+SVN,Slovenia,2021-01-01,1.1
+SWE,Sweden,2021-01-01,1.3
+TCD,Chad,2021-01-01,1.2
+THA,Thailand,2021-01-01,0.0
+TJK,Tajikistan,2021-01-01,4.9
+TTO,Trinidad and Tobago,2021-01-01,1.5
+TUN,Tunisia,2021-01-01,5.7
+TUR,Turkey,2021-01-01,18.3
+TWN,"Taiwan, China",2021-01-01,1.3
+UGA,Uganda,2021-01-01,2.8
+UKR,Ukraine,2021-01-01,6.9
+USA,United States,2021-01-01,3.6
+VNM,Vietnam,2021-01-01,0.8
+ZAF,South Africa,2021-01-01,3.1
+ALB,Albania,2022-01-01,6.5
+AUS,Australia,2022-01-01,5.5
+AUT,Austria,2022-01-01,5.5
+ARM,Armenia,2022-01-01,8.3
+BEL,Belgium,2022-01-01,4.6
+BGR,Bulgaria,2022-01-01,10.4
+BLR,Belarus,2022-01-01,16.5
+BRA,Brazil,2022-01-01,8.8
+CAN,Canada,2022-01-01,5.1
+CHE,Switzerland,2022-01-01,1.7
+CHL,Chile,2022-01-01,8.9
+CHN,China,2022-01-01,0.7
+CMR,Cameroon,2022-01-01,4.3
+COL,Colombia,2022-01-01,6.5
+CRI,Costa Rica,2022-01-01,4.5
+CYP,Cyprus,2022-01-01,5.3
+CZE,Czech Republic,2022-01-01,12.2
+DEU,Germany,2022-01-01,3.9
+DNK,Denmark,2022-01-01,4.0
+DOM,Dominican Republic,2022-01-01,7.0
+EGY,"Egypt, Arab Rep.",2022-01-01,15.0
+ESP,Spain,2022-01-01,3.7
+EST,Estonia,2022-01-01,9.7
+FIN,Finland,2022-01-01,4.2
+FRA,France,2022-01-01,2.8
+GBR,United Kingdom,2022-01-01,5.3
+GRC,Greece,2022-01-01,3.3
+GTM,Guatemala,2022-01-01,4.3
+HKG,"Hong Kong SAR, China",2022-01-01,0.7
+HND,Honduras,2022-01-01,8.0
+HRV,Croatia,2022-01-01,9.1
+HUN,Hungary,2022-01-01,10.2
+IDN,Indonesia,2022-01-01,2.8
+IND,India,2022-01-01,6.1
+IRL,Ireland,2022-01-01,4.7
+IRN,"Iran, Islamic Rep.",2022-01-01,35.9
+IRQ,Iraq,2022-01-01,4.8
+ISL,Iceland,2022-01-01,7.8
+ISR,Israel,2022-01-01,3.9
+ITA,Italy,2022-01-01,2.9
+JOR,Jordan,2022-01-01,3.2
+JPN,Japan,2022-01-01,0.3
+KAZ,Kazakhstan,2022-01-01,15.1
+KOR,"Korea, Rep.",2022-01-01,3.6
+KWT,Kuwait,2022-01-01,3.3
+LAO,"Lao, PDR",2022-01-01,21.7
+LKA,Sri Lanka,2022-01-01,42.0
+LTU,Lithuania,2022-01-01,10.3
+LUX,Luxembourg,2022-01-01,4.0
+LVA,Latvia,2022-01-01,7.2
+MAR,Morocco,2022-01-01,5.8
+MEX,Mexico,2022-01-01,6.0
+MKD,North Macedonia,2022-01-01,12.3
+MLT,Malta,2022-01-01,6.2
+MUS,Mauritius,2022-01-01,7.3
+MYS,Malaysia,2022-01-01,1.7
+NGA,Nigeria,2022-01-01,16.0
+NIC,Nicaragua,2022-01-01,8.2
+NLD,Netherlands,2022-01-01,4.2
+NOR,Norway,2022-01-01,3.6
+NZL,New Zealand,2022-01-01,6.0
+PER,Peru,2022-01-01,5.6
+PHL,Philippines,2022-01-01,4.6
+PNG,Papua New Guinea,2022-01-01,5.3
+POL,Poland,2022-01-01,9.0
+PRT,Portugal,2022-01-01,5.6
+PRY,Paraguay,2022-01-01,7.5
+QAT,Qatar,2022-01-01,4.7
+ROU,Romania,2022-01-01,8.8
+RUS,Russian Federation,2022-01-01,16.3
+SAU,Saudi Arabia,2022-01-01,1.2
+SEN,Senegal,2022-01-01,6.6
+SGP,Singapore,2022-01-01,4.1
+SLV,El Salvador,2022-01-01,4.9
+SRB,Serbia,2022-01-01,10.0
+SVK,Slovakia,2022-01-01,9.7
+SVN,Slovenia,2022-01-01,5.8
+SWE,Sweden,2022-01-01,5.8
+TCD,Chad,2022-01-01,8.2
+THA,Thailand,2022-01-01,0.6
+TTO,Trinidad and Tobago,2022-01-01,4.7
+TUN,Tunisia,2022-01-01,7.1
+TUR,Turkey,2022-01-01,58.6
+TWN,"Taiwan, China",2022-01-01,1.8
+UGA,Uganda,2022-01-01,6.0
+UKR,Ukraine,2022-01-01,16.0
+USA,United States,2022-01-01,6.2
+VNM,Vietnam,2022-01-01,2.6
+ZAF,South Africa,2022-01-01,4.3
+ALB,Albania,2023-01-01,5.2
+AUS,Australia,2023-01-01,5.3
+AUT,Austria,2023-01-01,7.7
+ARM,Armenia,2023-01-01,2.5
+BEL,Belgium,2023-01-01,6.6
+BGR,Bulgaria,2023-01-01,9.8
+BLR,Belarus,2023-01-01,4.0
+BRA,Brazil,2023-01-01,6.5
+CAN,Canada,2023-01-01,4.1
+CHE,Switzerland,2023-01-01,1.5
+CHL,Chile,2023-01-01,6.7
+CHN,China,2023-01-01,0.6
+CMR,Cameroon,2023-01-01,6.0
+COL,Colombia,2023-01-01,10.0
+CRI,Costa Rica,2023-01-01,1.0
+CYP,Cyprus,2023-01-01,4.4
+CZE,Czech Republic,2023-01-01,6.2
+DEU,Germany,2023-01-01,5.0
+DNK,Denmark,2023-01-01,4.3
+DOM,Dominican Republic,2023-01-01,5.3
+EGY,"Egypt, Arab Rep.",2023-01-01,38.3
+ESP,Spain,2023-01-01,4.4
+EST,Estonia,2023-01-01,8.4
+FIN,Finland,2023-01-01,6.6
+FRA,France,2023-01-01,3.4
+GBR,United Kingdom,2023-01-01,5.9
+GRC,Greece,2023-01-01,5.0
+GTM,Guatemala,2023-01-01,4.5
+HKG,"Hong Kong SAR, China",2023-01-01,1.5
+HND,Honduras,2023-01-01,6.6
+HRV,Croatia,2023-01-01,7.6
+HUN,Hungary,2023-01-01,13.8
+IDN,Indonesia,2023-01-01,2.4
+IND,India,2023-01-01,5.0
+IRL,Ireland,2023-01-01,5.9
+IRN,"Iran, Islamic Rep.",2023-01-01,41.8
+IRQ,Iraq,2023-01-01,4.6
+ISL,Iceland,2023-01-01,8.4
+ISR,Israel,2023-01-01,4.2
+ITA,Italy,2023-01-01,4.2
+JOR,Jordan,2023-01-01,2.3
+JPN,Japan,2023-01-01,2.7
+KAZ,Kazakhstan,2023-01-01,14.9
+KOR,"Korea, Rep.",2023-01-01,3.4
+KWT,Kuwait,2023-01-01,3.0
+LKA,Sri Lanka,2023-01-01,15.8
+LTU,Lithuania,2023-01-01,9.9
+LUX,Luxembourg,2023-01-01,3.7
+LVA,Latvia,2023-01-01,8.3
+MEX,Mexico,2023-01-01,5.7
+MKD,North Macedonia,2023-01-01,8.1
+MUS,Mauritius,2023-01-01,5.2
+MYS,Malaysia,2023-01-01,1.8
+NGA,Nigeria,2023-01-01,20.8
+NIC,Nicaragua,2023-01-01,7.6
+NLD,Netherlands,2023-01-01,5.6
+NOR,Norway,2023-01-01,5.8
+NZL,New Zealand,2023-01-01,5.6
+PER,Peru,2023-01-01,5.9
+PHL,Philippines,2023-01-01,4.9
+POL,Poland,2023-01-01,9.9
+PRT,Portugal,2023-01-01,5.0
+PRY,Paraguay,2023-01-01,5.8
+QAT,Qatar,2023-01-01,2.6
+ROU,Romania,2023-01-01,12.0
+RUS,Russian Federation,2023-01-01,5.5
+SEN,Senegal,2023-01-01,3.7
+SGP,Singapore,2023-01-01,4.2
+SLV,El Salvador,2023-01-01,2.7
+SRB,Serbia,2023-01-01,11.6
+SVK,Slovakia,2023-01-01,9.4
+SVN,Slovenia,2023-01-01,7.3
+SWE,Sweden,2023-01-01,10.0
+THA,Thailand,2023-01-01,0.6
+TTO,Trinidad and Tobago,2023-01-01,3.9
+TUN,Tunisia,2023-01-01,7.5
+TUR,Turkey,2023-01-01,58.5
+TWN,"Taiwan, China",2023-01-01,2.0
+UGA,Uganda,2023-01-01,4.7
+UKR,Ukraine,2023-01-01,12.9
+USA,United States,2023-01-01,4.8
+VNM,Vietnam,2023-01-01,4.2
+ZAF,South Africa,2023-01-01,4.8

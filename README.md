@@ -1,6 +1,6 @@
 # WorldBank-Global-Inflation-Data
 
-This repository contains [processed](processed) versions of the World Bank's ["_A Global Database of Inflation_"](https://www.worldbank.org/en/research/brief/inflation-database) inflation data. The information has been structured and cleaned for enhanced usability in AI, machine learning, and data science applications. No scripts or code are included in this repository; only the processed datasets are provided.
+This repository contains processed [data](data) versions of the World Bank's ["_A Global Database of Inflation_"](https://www.worldbank.org/en/research/brief/inflation-database) inflation data. The information has been structured and cleaned for enhanced usability in AI, machine learning, and data science applications. No scripts or code are included in this repository; only the processed datasets are provided.
 
 ## Usage
 
@@ -16,8 +16,52 @@ To access and use the data files in this repository:
    cd WorldBank-Global-Inflation-Data
    ```
 
-3. **Load the data**: The data is stored in CSV format within the `data` folder. You can use tools like **Pandas** or **SQLite** to work with the datasets in your preferred environment.
+3. **Load the data**:
+   - **CSV Format**: The data is stored in CSV format within the `data` folder. You can use tools like **Pandas** to load and process these files in Python:
+     ```python
+     import pandas as pd
+     df = pd.read_csv('data/[filename].csv')
+     ```
 
+   - **SQLite Database**: The data is also provided in SQLite format as `world_bank_inflation.db` for efficient querying and analysis.
+
+### Working with the SQLite Database
+
+1. **Open the Database**:
+   Use the SQLite command-line interface or any SQLite-compatible tool:
+   ```bash
+   sqlite3 world_bank_inflation.db
+   ```
+
+2. **List Available Tables**:
+   To see the tables in the database:
+   ```sql
+   .tables
+   ```
+
+3. **Sample Queries**:
+   To retrieve data from a specific table, use SQL queries. For example:
+   ```sql
+   SELECT * FROM headline_cpi_monthly_data WHERE country_code = 'USA';
+   ```
+   Replace `headline_cpi_monthly_data` and `country_code` with the relevant table and column names for your analysis.
+
+4. **Python Example**:
+   Use SQLite in Python with the `sqlite3` library:
+   ```python
+   import sqlite3
+
+   # Connect to the database
+   conn = sqlite3.connect('world_bank_inflation.db')
+   cursor = conn.cursor()
+
+   # Execute a query
+   cursor.execute("SELECT * FROM headline_cpi_monthly_data WHERE country_code = 'USA'")
+   rows = cursor.fetchall()
+
+   # Close the connection
+   conn.close()
+   ```
 
 ## About the Data
 
