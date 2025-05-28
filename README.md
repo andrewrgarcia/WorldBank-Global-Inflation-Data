@@ -56,6 +56,10 @@ Besides the .csv content found in the [data](data) directory, the data is also p
    conn.close()
    ```
 
+### Example Scripts
+
+For clear, code-ready demonstrations of how to load, filter, and work with both the CSV files and the SQLite database, please check out the [`examples/`](examples) directory. These snippets illustrate how to treat the data programmatically using Python and pandas, including caveats about partial country coverage across datasets.
+
 ## About the Data
 
 - **Source**: [The World Bank’s Prospects Group Global Inflation Database (April 2024 version)](https://www.worldbank.org/en/research/brief/inflation-database).
